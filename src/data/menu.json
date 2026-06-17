@@ -1,0 +1,4125 @@
+{
+  "id": "am-fathy-ready",
+  "slug": "am-fathy",
+  "provider": "Manual cleaned from uploaded PDF",
+  "restaurantName": "عم فتحي",
+  "restaurantType": "فول وطعمية",
+  "description": "الطعم أصل الحكاية، منيو سندوتشات عم فتحي جاهز للطلب.",
+  "whatsapp": "201118921117",
+  "phone": "+20 11 18921117",
+  "instagram": "",
+  "address": "",
+  "status": "مفتوح الآن",
+  "deliveryTime": "30 إلى 45 دقيقة",
+  "minimumOrder": "",
+  "deliveryArea": "",
+  "currency": "جنيه",
+  "logo": "",
+  "cover": "",
+  "theme": {
+    "id": "olive-gold",
+    "name": "زيتوني وذهبي",
+    "primary": "#4f6f52",
+    "secondary": "#314b35",
+    "accent": "#c99a4a",
+    "background": "#f8f3e9",
+    "surface": "#ffffff",
+    "text": "#241f1a",
+    "muted": "#8a7b6e"
+  },
+  "layout": "cards",
+  "density": "compact",
+  "noMenu": false,
+  "categories": [
+    {
+      "id": "amfathy_cat_01",
+      "name": "سندوتشات الفول",
+      "description": "الأسعار حسب نوع العيش المتاح.",
+      "sortOrder": 1,
+      "items": [
+        {
+          "id": "amfathy_c01_i001",
+          "name": "فول عم فتحي - شامي",
+          "description": "",
+          "price": 9,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": true,
+          "sortOrder": 1
+        },
+        {
+          "id": "amfathy_c01_i002",
+          "name": "فول عم فتحي - بلدي",
+          "description": "",
+          "price": 10,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": true,
+          "sortOrder": 2
+        },
+        {
+          "id": "amfathy_c01_i003",
+          "name": "فول عم فتحي - فرنساوي",
+          "description": "",
+          "price": 17,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "../../public/images/fool.jpg",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": true,
+          "sortOrder": 3
+        },
+        {
+          "id": "amfathy_c01_i004",
+          "name": "فول لمونيتا - شامي",
+          "description": "",
+          "price": 11,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 4
+        },
+        {
+          "id": "amfathy_c01_i005",
+          "name": "فول لمونيتا - بلدي",
+          "description": "",
+          "price": 12,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 5
+        },
+        {
+          "id": "amfathy_c01_i006",
+          "name": "فول حار - شامي",
+          "description": "",
+          "price": 11,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 6
+        },
+        {
+          "id": "amfathy_c01_i007",
+          "name": "فول حار - بلدي",
+          "description": "",
+          "price": 12,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 7
+        },
+        {
+          "id": "amfathy_c01_i008",
+          "name": "فول زيتون - شامي",
+          "description": "",
+          "price": 12,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 8
+        },
+        {
+          "id": "amfathy_c01_i009",
+          "name": "فول زيتون - بلدي",
+          "description": "",
+          "price": 13,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 9
+        },
+        {
+          "id": "amfathy_c01_i010",
+          "name": "فول سبيشيال - شامي",
+          "description": "",
+          "price": 12,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 10
+        },
+        {
+          "id": "amfathy_c01_i011",
+          "name": "فول سبيشيال - بلدي",
+          "description": "",
+          "price": 13,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 11
+        },
+        {
+          "id": "amfathy_c01_i012",
+          "name": "فول اسكندراني - شامي",
+          "description": "",
+          "price": 12,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 12
+        },
+        {
+          "id": "amfathy_c01_i013",
+          "name": "فول اسكندراني - بلدي",
+          "description": "",
+          "price": 12,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 13
+        },
+        {
+          "id": "amfathy_c01_i014",
+          "name": "فول اسكندراني - فرنساوي",
+          "description": "",
+          "price": 12,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 14
+        },
+        {
+          "id": "amfathy_c01_i015",
+          "name": "فول صلصة - شامي",
+          "description": "",
+          "price": 12,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 15
+        },
+        {
+          "id": "amfathy_c01_i016",
+          "name": "فول صلصة - بلدي",
+          "description": "",
+          "price": 13,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 16
+        },
+        {
+          "id": "amfathy_c01_i017",
+          "name": "فول بالزبدة - شامي",
+          "description": "",
+          "price": 13,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 17
+        },
+        {
+          "id": "amfathy_c01_i018",
+          "name": "فول بالزبدة - بلدي",
+          "description": "",
+          "price": 14,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 18
+        },
+        {
+          "id": "amfathy_c01_i019",
+          "name": "فول بالسمنة - شامي",
+          "description": "",
+          "price": 12,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 19
+        },
+        {
+          "id": "amfathy_c01_i020",
+          "name": "فول بالسمنة - بلدي",
+          "description": "",
+          "price": 12,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 20
+        },
+        {
+          "id": "amfathy_c01_i021",
+          "name": "فول بالسمنة - فرنساوي",
+          "description": "",
+          "price": 12,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 21
+        },
+        {
+          "id": "amfathy_c01_i022",
+          "name": "فول بالحمص - شامي",
+          "description": "",
+          "price": 12,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 22
+        },
+        {
+          "id": "amfathy_c01_i023",
+          "name": "فول بالحمص - بلدي",
+          "description": "",
+          "price": 12,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 23
+        },
+        {
+          "id": "amfathy_c01_i024",
+          "name": "فول بالحمص - فرنساوي",
+          "description": "",
+          "price": 12,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 24
+        },
+        {
+          "id": "amfathy_c01_i025",
+          "name": "فول سجق - شامي",
+          "description": "",
+          "price": 20,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 25
+        },
+        {
+          "id": "amfathy_c01_i026",
+          "name": "فول سجق - بلدي",
+          "description": "",
+          "price": 21,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 26
+        },
+        {
+          "id": "amfathy_c01_i027",
+          "name": "فول بسطرمة - شامي",
+          "description": "",
+          "price": 22,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 27
+        },
+        {
+          "id": "amfathy_c01_i028",
+          "name": "فول بسطرمة - بلدي",
+          "description": "",
+          "price": 23,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 28
+        },
+        {
+          "id": "amfathy_c01_i029",
+          "name": "فول بالبيض المسلوق - شامي",
+          "description": "",
+          "price": 16,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 29
+        },
+        {
+          "id": "amfathy_c01_i030",
+          "name": "فول بالبيض المسلوق - بلدي",
+          "description": "",
+          "price": 18,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 30
+        },
+        {
+          "id": "amfathy_c01_i031",
+          "name": "فول أومليت - شامي",
+          "description": "",
+          "price": 18,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 31
+        },
+        {
+          "id": "amfathy_c01_i032",
+          "name": "فول أومليت - بلدي",
+          "description": "",
+          "price": 20,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 32
+        },
+        {
+          "id": "amfathy_c01_i033",
+          "name": "فول على طعمية - شامي",
+          "description": "",
+          "price": 15,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 33
+        },
+        {
+          "id": "amfathy_c01_i034",
+          "name": "فول على طعمية - بلدي",
+          "description": "",
+          "price": 17,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 34
+        },
+        {
+          "id": "amfathy_c01_i035",
+          "name": "فول على محشية - شامي",
+          "description": "",
+          "price": 17,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 35
+        },
+        {
+          "id": "amfathy_c01_i036",
+          "name": "فول على محشية - بلدي",
+          "description": "",
+          "price": 19,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 36
+        },
+        {
+          "id": "amfathy_c01_i037",
+          "name": "ديناميت - شامي",
+          "description": "",
+          "price": 25,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": true,
+          "sortOrder": 37
+        },
+        {
+          "id": "amfathy_c01_i038",
+          "name": "ديناميت - بلدي",
+          "description": "",
+          "price": 26,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": true,
+          "sortOrder": 38
+        },
+        {
+          "id": "amfathy_c01_i039",
+          "name": "ديناميت - فرنساوي",
+          "description": "",
+          "price": 30,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": true,
+          "sortOrder": 39
+        },
+        {
+          "id": "amfathy_c01_i040",
+          "name": "ميجا ميكس - شامي",
+          "description": "",
+          "price": 22,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": true,
+          "sortOrder": 40
+        },
+        {
+          "id": "amfathy_c01_i041",
+          "name": "ميجا ميكس - بلدي",
+          "description": "",
+          "price": 25,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": true,
+          "sortOrder": 41
+        }
+      ]
+    },
+    {
+      "id": "amfathy_cat_02",
+      "name": "سندوتشات الطعمية",
+      "description": "الأسعار حسب نوع العيش المتاح.",
+      "sortOrder": 2,
+      "items": [
+        {
+          "id": "amfathy_c02_i001",
+          "name": "طعمية عم فتحي - شامي",
+          "description": "",
+          "price": 10,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": true,
+          "sortOrder": 1
+        },
+        {
+          "id": "amfathy_c02_i002",
+          "name": "طعمية عم فتحي - بلدي",
+          "description": "",
+          "price": 11,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": true,
+          "sortOrder": 2
+        },
+        {
+          "id": "amfathy_c02_i003",
+          "name": "طعمية عم فتحي - فرنساوي",
+          "description": "",
+          "price": 23,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": true,
+          "sortOrder": 3
+        },
+        {
+          "id": "amfathy_c02_i004",
+          "name": "طعمية محشية - شامي",
+          "description": "",
+          "price": 13,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 4
+        },
+        {
+          "id": "amfathy_c02_i005",
+          "name": "طعمية محشية - بلدي",
+          "description": "",
+          "price": 14,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 5
+        },
+        {
+          "id": "amfathy_c02_i006",
+          "name": "طعمية محشية - فرنساوي",
+          "description": "",
+          "price": 23,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 6
+        },
+        {
+          "id": "amfathy_c02_i007",
+          "name": "طعمية اسبيشيال - شامي",
+          "description": "",
+          "price": 14,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 7
+        },
+        {
+          "id": "amfathy_c02_i008",
+          "name": "طعمية اسبيشيال - بلدي",
+          "description": "",
+          "price": 15,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 8
+        },
+        {
+          "id": "amfathy_c02_i009",
+          "name": "طعمية اسبيشيال - فرنساوي",
+          "description": "",
+          "price": 23,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 9
+        },
+        {
+          "id": "amfathy_c02_i010",
+          "name": "طعمية كيري - شامي",
+          "description": "",
+          "price": 21,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 10
+        },
+        {
+          "id": "amfathy_c02_i011",
+          "name": "طعمية كيري - بلدي",
+          "description": "",
+          "price": 22,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 11
+        },
+        {
+          "id": "amfathy_c02_i012",
+          "name": "طعمية كيري - فرنساوي",
+          "description": "",
+          "price": 30,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 12
+        },
+        {
+          "id": "amfathy_c02_i013",
+          "name": "طعمية شيدر - شامي",
+          "description": "",
+          "price": 21,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 13
+        },
+        {
+          "id": "amfathy_c02_i014",
+          "name": "طعمية شيدر - بلدي",
+          "description": "",
+          "price": 22,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 14
+        },
+        {
+          "id": "amfathy_c02_i015",
+          "name": "طعمية شيدر - فرنساوي",
+          "description": "",
+          "price": 28,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 15
+        },
+        {
+          "id": "amfathy_c02_i016",
+          "name": "طعمية رومي - شامي",
+          "description": "",
+          "price": 21,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 16
+        },
+        {
+          "id": "amfathy_c02_i017",
+          "name": "طعمية رومي - بلدي",
+          "description": "",
+          "price": 22,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 17
+        },
+        {
+          "id": "amfathy_c02_i018",
+          "name": "طعمية رومي - فرنساوي",
+          "description": "",
+          "price": 28,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 18
+        },
+        {
+          "id": "amfathy_c02_i019",
+          "name": "طعمية بسطرمة - شامي",
+          "description": "",
+          "price": 21,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 19
+        },
+        {
+          "id": "amfathy_c02_i020",
+          "name": "طعمية بسطرمة - بلدي",
+          "description": "",
+          "price": 23,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 20
+        },
+        {
+          "id": "amfathy_c02_i021",
+          "name": "طعمية بسطرمة - فرنساوي",
+          "description": "",
+          "price": 28,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 21
+        },
+        {
+          "id": "amfathy_c02_i022",
+          "name": "طعمية بيض مسلوق - شامي",
+          "description": "",
+          "price": 17,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 22
+        },
+        {
+          "id": "amfathy_c02_i023",
+          "name": "طعمية بيض مسلوق - بلدي",
+          "description": "",
+          "price": 18,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 23
+        },
+        {
+          "id": "amfathy_c02_i024",
+          "name": "طعمية بيض مسلوق - فرنساوي",
+          "description": "",
+          "price": 33,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 24
+        },
+        {
+          "id": "amfathy_c02_i025",
+          "name": "طعمية أومليت - شامي",
+          "description": "",
+          "price": 25,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 25
+        },
+        {
+          "id": "amfathy_c02_i026",
+          "name": "طعمية أومليت - بلدي",
+          "description": "",
+          "price": 26,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 26
+        },
+        {
+          "id": "amfathy_c02_i027",
+          "name": "طعمية أومليت - فرنساوي",
+          "description": "",
+          "price": 35,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 27
+        },
+        {
+          "id": "amfathy_c02_i028",
+          "name": "طعمية حمص - شامي",
+          "description": "",
+          "price": 12,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 28
+        },
+        {
+          "id": "amfathy_c02_i029",
+          "name": "طعمية حمص - بلدي",
+          "description": "",
+          "price": 12,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 29
+        },
+        {
+          "id": "amfathy_c02_i030",
+          "name": "طعمية حمص - فرنساوي",
+          "description": "",
+          "price": 12,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 30
+        },
+        {
+          "id": "amfathy_c02_i031",
+          "name": "ميكس محشية - شامي",
+          "description": "",
+          "price": 16,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 31
+        },
+        {
+          "id": "amfathy_c02_i032",
+          "name": "ميكس محشية - بلدي",
+          "description": "",
+          "price": 20,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 32
+        },
+        {
+          "id": "amfathy_c02_i033",
+          "name": "ميكس محشية - فرنساوي",
+          "description": "",
+          "price": 27,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 33
+        },
+        {
+          "id": "amfathy_c02_i034",
+          "name": "طعمية ليمونيتا - شامي",
+          "description": "",
+          "price": 22,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 34
+        },
+        {
+          "id": "amfathy_c02_i035",
+          "name": "طعمية ليمونيتا - بلدي",
+          "description": "",
+          "price": 23,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 35
+        },
+        {
+          "id": "amfathy_c02_i036",
+          "name": "طعمية ليمونيتا - فرنساوي",
+          "description": "",
+          "price": 27,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 36
+        },
+        {
+          "id": "amfathy_c02_i037",
+          "name": "طعمية على باذنجان - شامي",
+          "description": "",
+          "price": 15,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 37
+        },
+        {
+          "id": "amfathy_c02_i038",
+          "name": "طعمية على باذنجان - بلدي",
+          "description": "",
+          "price": 16,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 38
+        },
+        {
+          "id": "amfathy_c02_i039",
+          "name": "طعمية على باذنجان - فرنساوي",
+          "description": "",
+          "price": 27,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 39
+        },
+        {
+          "id": "amfathy_c02_i040",
+          "name": "طعمية على بطاطس - شامي",
+          "description": "",
+          "price": 20,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 40
+        },
+        {
+          "id": "amfathy_c02_i041",
+          "name": "طعمية على بطاطس - بلدي",
+          "description": "",
+          "price": 22,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 41
+        },
+        {
+          "id": "amfathy_c02_i042",
+          "name": "طعمية على بطاطس - فرنساوي",
+          "description": "",
+          "price": 32,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 42
+        },
+        {
+          "id": "amfathy_c02_i043",
+          "name": "طعمية على بابا غنوج - شامي",
+          "description": "",
+          "price": 14,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 43
+        },
+        {
+          "id": "amfathy_c02_i044",
+          "name": "طعمية على بابا غنوج - بلدي",
+          "description": "",
+          "price": 17,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 44
+        },
+        {
+          "id": "amfathy_c02_i045",
+          "name": "طعمية على بابا غنوج - فرنساوي",
+          "description": "",
+          "price": 27,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 45
+        },
+        {
+          "id": "amfathy_c02_i046",
+          "name": "طعمية على مسقعة - شامي",
+          "description": "",
+          "price": 20,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 46
+        },
+        {
+          "id": "amfathy_c02_i047",
+          "name": "طعمية على مسقعة - بلدي",
+          "description": "",
+          "price": 21,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 47
+        },
+        {
+          "id": "amfathy_c02_i048",
+          "name": "طعمية كفتة - شامي",
+          "description": "",
+          "price": 17,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 48
+        },
+        {
+          "id": "amfathy_c02_i049",
+          "name": "طعمية كفتة - بلدي",
+          "description": "",
+          "price": 18,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 49
+        },
+        {
+          "id": "amfathy_c02_i050",
+          "name": "عجة بلدي - شامي",
+          "description": "",
+          "price": 21,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 50
+        },
+        {
+          "id": "amfathy_c02_i051",
+          "name": "عجة بلدي - بلدي",
+          "description": "",
+          "price": 25,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 51
+        },
+        {
+          "id": "amfathy_c02_i052",
+          "name": "عجة بلدي - فرنساوي",
+          "description": "",
+          "price": 33,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 52
+        }
+      ]
+    },
+    {
+      "id": "amfathy_cat_03",
+      "name": "سندوتشات البطاطس",
+      "description": "الأسعار حسب نوع العيش المتاح.",
+      "sortOrder": 3,
+      "items": [
+        {
+          "id": "amfathy_c03_i001",
+          "name": "بطاطس صوابع - شامي",
+          "description": "",
+          "price": 18,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 1
+        },
+        {
+          "id": "amfathy_c03_i002",
+          "name": "بطاطس صوابع - بلدي",
+          "description": "",
+          "price": 19,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 2
+        },
+        {
+          "id": "amfathy_c03_i003",
+          "name": "بطاطس صوابع - فرنساوي",
+          "description": "",
+          "price": 26,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 3
+        },
+        {
+          "id": "amfathy_c03_i004",
+          "name": "صوابع سبيشيال - شامي",
+          "description": "شرائح طماطم، خيار، زيتون، طحينة",
+          "price": 19,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 4
+        },
+        {
+          "id": "amfathy_c03_i005",
+          "name": "صوابع سبيشيال - بلدي",
+          "description": "شرائح طماطم، خيار، زيتون، طحينة",
+          "price": 20,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 5
+        },
+        {
+          "id": "amfathy_c03_i006",
+          "name": "صوابع سبيشيال - فرنساوي",
+          "description": "شرائح طماطم، خيار، زيتون، طحينة",
+          "price": 27,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 6
+        },
+        {
+          "id": "amfathy_c03_i007",
+          "name": "بطاطس كاتشب ومايونيز - شامي",
+          "description": "",
+          "price": 20,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 7
+        },
+        {
+          "id": "amfathy_c03_i008",
+          "name": "بطاطس كاتشب ومايونيز - بلدي",
+          "description": "",
+          "price": 22,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 8
+        },
+        {
+          "id": "amfathy_c03_i009",
+          "name": "بطاطس كاتشب ومايونيز - فرنساوي",
+          "description": "",
+          "price": 27,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 9
+        },
+        {
+          "id": "amfathy_c03_i010",
+          "name": "بطاطس كاتشب - شامي",
+          "description": "",
+          "price": 21,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 10
+        },
+        {
+          "id": "amfathy_c03_i011",
+          "name": "بطاطس كاتشب - بلدي",
+          "description": "",
+          "price": 22,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 11
+        },
+        {
+          "id": "amfathy_c03_i012",
+          "name": "بطاطس كاتشب - فرنساوي",
+          "description": "",
+          "price": 30,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 12
+        },
+        {
+          "id": "amfathy_c03_i013",
+          "name": "بطاطس مايونيز - شامي",
+          "description": "",
+          "price": 19,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 13
+        },
+        {
+          "id": "amfathy_c03_i014",
+          "name": "بطاطس مايونيز - بلدي",
+          "description": "",
+          "price": 20,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 14
+        },
+        {
+          "id": "amfathy_c03_i015",
+          "name": "بطاطس مايونيز - فرنساوي",
+          "description": "",
+          "price": 28,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 15
+        },
+        {
+          "id": "amfathy_c03_i016",
+          "name": "بطاطس رومي - شامي",
+          "description": "",
+          "price": 21,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 16
+        },
+        {
+          "id": "amfathy_c03_i017",
+          "name": "بطاطس رومي - بلدي",
+          "description": "",
+          "price": 25,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 17
+        },
+        {
+          "id": "amfathy_c03_i018",
+          "name": "بطاطس رومي - فرنساوي",
+          "description": "",
+          "price": 29,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 18
+        },
+        {
+          "id": "amfathy_c03_i019",
+          "name": "بطاطس شيدر - شامي",
+          "description": "",
+          "price": 21,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 19
+        },
+        {
+          "id": "amfathy_c03_i020",
+          "name": "بطاطس شيدر - بلدي",
+          "description": "",
+          "price": 25,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 20
+        },
+        {
+          "id": "amfathy_c03_i021",
+          "name": "بطاطس شيدر - فرنساوي",
+          "description": "",
+          "price": 29,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 21
+        },
+        {
+          "id": "amfathy_c03_i022",
+          "name": "بطاطس موتزاريلا - شامي",
+          "description": "",
+          "price": 21,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 22
+        },
+        {
+          "id": "amfathy_c03_i023",
+          "name": "بطاطس موتزاريلا - بلدي",
+          "description": "",
+          "price": 25,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 23
+        },
+        {
+          "id": "amfathy_c03_i024",
+          "name": "بطاطس موتزاريلا - فرنساوي",
+          "description": "",
+          "price": 29,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 24
+        },
+        {
+          "id": "amfathy_c03_i025",
+          "name": "بطاطس بيض مسلوق - شامي",
+          "description": "",
+          "price": 25,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 25
+        },
+        {
+          "id": "amfathy_c03_i026",
+          "name": "بطاطس بيض مسلوق - بلدي",
+          "description": "",
+          "price": 26,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 26
+        },
+        {
+          "id": "amfathy_c03_i027",
+          "name": "بطاطس بيض مسلوق - فرنساوي",
+          "description": "",
+          "price": 28,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 27
+        },
+        {
+          "id": "amfathy_c03_i028",
+          "name": "بطاطس سجق - شامي",
+          "description": "",
+          "price": 30,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 28
+        },
+        {
+          "id": "amfathy_c03_i029",
+          "name": "بطاطس سجق - بلدي",
+          "description": "",
+          "price": 33,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 29
+        },
+        {
+          "id": "amfathy_c03_i030",
+          "name": "بطاطس سجق - فرنساوي",
+          "description": "",
+          "price": 36,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 30
+        },
+        {
+          "id": "amfathy_c03_i031",
+          "name": "بطاطس سوسيس - شامي",
+          "description": "",
+          "price": 30,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 31
+        },
+        {
+          "id": "amfathy_c03_i032",
+          "name": "بطاطس سوسيس - بلدي",
+          "description": "",
+          "price": 33,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 32
+        },
+        {
+          "id": "amfathy_c03_i033",
+          "name": "بطاطس سوسيس - فرنساوي",
+          "description": "",
+          "price": 36,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 33
+        },
+        {
+          "id": "amfathy_c03_i034",
+          "name": "بطاطس بسطرمة - شامي",
+          "description": "",
+          "price": 30,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 34
+        },
+        {
+          "id": "amfathy_c03_i035",
+          "name": "بطاطس بسطرمة - بلدي",
+          "description": "",
+          "price": 32,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 35
+        },
+        {
+          "id": "amfathy_c03_i036",
+          "name": "بطاطس بسطرمة - فرنساوي",
+          "description": "",
+          "price": 35,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 36
+        },
+        {
+          "id": "amfathy_c03_i037",
+          "name": "بطاطس أومليت - شامي",
+          "description": "",
+          "price": 28,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 37
+        },
+        {
+          "id": "amfathy_c03_i038",
+          "name": "بطاطس أومليت - بلدي",
+          "description": "",
+          "price": 30,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 38
+        },
+        {
+          "id": "amfathy_c03_i039",
+          "name": "بطاطس أومليت - فرنساوي",
+          "description": "",
+          "price": 35,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 39
+        },
+        {
+          "id": "amfathy_c03_i040",
+          "name": "بطاطس ثومية - شامي",
+          "description": "",
+          "price": 20,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 40
+        },
+        {
+          "id": "amfathy_c03_i041",
+          "name": "بطاطس ثومية - بلدي",
+          "description": "",
+          "price": 22,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 41
+        },
+        {
+          "id": "amfathy_c03_i042",
+          "name": "بطاطس ثومية - فرنساوي",
+          "description": "",
+          "price": 28,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 42
+        },
+        {
+          "id": "amfathy_c03_i043",
+          "name": "شيبسي - شامي",
+          "description": "",
+          "price": 17,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 43
+        },
+        {
+          "id": "amfathy_c03_i044",
+          "name": "شيبسي - بلدي",
+          "description": "",
+          "price": 18,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 44
+        },
+        {
+          "id": "amfathy_c03_i045",
+          "name": "شيبسي كاتشب ومايونيز - شامي",
+          "description": "",
+          "price": 20,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 45
+        },
+        {
+          "id": "amfathy_c03_i046",
+          "name": "شيبسي كاتشب ومايونيز - بلدي",
+          "description": "",
+          "price": 21,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 46
+        },
+        {
+          "id": "amfathy_c03_i047",
+          "name": "شيبسي رومي - شامي",
+          "description": "",
+          "price": 25,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 47
+        },
+        {
+          "id": "amfathy_c03_i048",
+          "name": "شيبسي رومي - بلدي",
+          "description": "",
+          "price": 25,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 48
+        },
+        {
+          "id": "amfathy_c03_i049",
+          "name": "شيبسي رومي - فرنساوي",
+          "description": "",
+          "price": 29,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 49
+        },
+        {
+          "id": "amfathy_c03_i050",
+          "name": "شيبسي شيدر - شامي",
+          "description": "",
+          "price": 25,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 50
+        },
+        {
+          "id": "amfathy_c03_i051",
+          "name": "شيبسي شيدر - بلدي",
+          "description": "",
+          "price": 25,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 51
+        },
+        {
+          "id": "amfathy_c03_i052",
+          "name": "شيبسي شيدر - فرنساوي",
+          "description": "",
+          "price": 29,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 52
+        },
+        {
+          "id": "amfathy_c03_i053",
+          "name": "شيبسي بابا غنوج - شامي",
+          "description": "",
+          "price": 21,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 53
+        },
+        {
+          "id": "amfathy_c03_i054",
+          "name": "شيبسي بابا غنوج - بلدي",
+          "description": "",
+          "price": 25,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 54
+        },
+        {
+          "id": "amfathy_c03_i055",
+          "name": "شيبسي بابا غنوج - فرنساوي",
+          "description": "",
+          "price": 27,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 55
+        },
+        {
+          "id": "amfathy_c03_i056",
+          "name": "بيوريه - شامي",
+          "description": "",
+          "price": 18,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 56
+        },
+        {
+          "id": "amfathy_c03_i057",
+          "name": "بيوريه - بلدي",
+          "description": "",
+          "price": 19,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 57
+        },
+        {
+          "id": "amfathy_c03_i058",
+          "name": "بيوريه - فرنساوي",
+          "description": "",
+          "price": 25,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 58
+        },
+        {
+          "id": "amfathy_c03_i059",
+          "name": "بيوريه رومي - شامي",
+          "description": "",
+          "price": 25,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 59
+        },
+        {
+          "id": "amfathy_c03_i060",
+          "name": "بيوريه رومي - بلدي",
+          "description": "",
+          "price": 26,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 60
+        },
+        {
+          "id": "amfathy_c03_i061",
+          "name": "بيوريه رومي - فرنساوي",
+          "description": "",
+          "price": 29,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 61
+        },
+        {
+          "id": "amfathy_c03_i062",
+          "name": "بيوريه شيدر - شامي",
+          "description": "",
+          "price": 25,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 62
+        },
+        {
+          "id": "amfathy_c03_i063",
+          "name": "بيوريه شيدر - بلدي",
+          "description": "",
+          "price": 26,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 63
+        },
+        {
+          "id": "amfathy_c03_i064",
+          "name": "بيوريه شيدر - فرنساوي",
+          "description": "",
+          "price": 29,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 64
+        },
+        {
+          "id": "amfathy_c03_i065",
+          "name": "بيوريه بيض مسلوق - شامي",
+          "description": "",
+          "price": 22,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 65
+        },
+        {
+          "id": "amfathy_c03_i066",
+          "name": "بيوريه بيض مسلوق - بلدي",
+          "description": "",
+          "price": 23,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 66
+        },
+        {
+          "id": "amfathy_c03_i067",
+          "name": "بيوريه بيض مسلوق - فرنساوي",
+          "description": "",
+          "price": 30,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 67
+        },
+        {
+          "id": "amfathy_c03_i068",
+          "name": "بيوريه أومليت - شامي",
+          "description": "",
+          "price": 25,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 68
+        },
+        {
+          "id": "amfathy_c03_i069",
+          "name": "بيوريه أومليت - بلدي",
+          "description": "",
+          "price": 26,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 69
+        },
+        {
+          "id": "amfathy_c03_i070",
+          "name": "بيوريه أومليت - فرنساوي",
+          "description": "",
+          "price": 30,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 70
+        },
+        {
+          "id": "amfathy_c03_i071",
+          "name": "بطاطس على غنوج - شامي",
+          "description": "",
+          "price": 20,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 71
+        },
+        {
+          "id": "amfathy_c03_i072",
+          "name": "بطاطس على غنوج - بلدي",
+          "description": "",
+          "price": 22,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 72
+        },
+        {
+          "id": "amfathy_c03_i073",
+          "name": "بطاطس على غنوج - فرنساوي",
+          "description": "",
+          "price": 28,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 73
+        },
+        {
+          "id": "amfathy_c03_i074",
+          "name": "بطاطس على باذنجان - شامي",
+          "description": "",
+          "price": 20,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 74
+        },
+        {
+          "id": "amfathy_c03_i075",
+          "name": "بطاطس على باذنجان - بلدي",
+          "description": "",
+          "price": 22,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 75
+        },
+        {
+          "id": "amfathy_c03_i076",
+          "name": "بطاطس جمبري - شامي",
+          "description": "",
+          "price": 22,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 76
+        },
+        {
+          "id": "amfathy_c03_i077",
+          "name": "بطاطس جمبري - بلدي",
+          "description": "",
+          "price": 23,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 77
+        },
+        {
+          "id": "amfathy_c03_i078",
+          "name": "بطاطس - شامي",
+          "description": "",
+          "price": 22,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 78
+        },
+        {
+          "id": "amfathy_c03_i079",
+          "name": "بطاطس - بلدي",
+          "description": "",
+          "price": 23,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 79
+        }
+      ]
+    },
+    {
+      "id": "amfathy_cat_04",
+      "name": "سندوتشات البيض",
+      "description": "الأسعار حسب نوع العيش المتاح.",
+      "sortOrder": 4,
+      "items": [
+        {
+          "id": "amfathy_c04_i001",
+          "name": "أومليت ساده - شامي",
+          "description": "",
+          "price": 17,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 1
+        },
+        {
+          "id": "amfathy_c04_i002",
+          "name": "أومليت ساده - بلدي",
+          "description": "",
+          "price": 16,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 2
+        },
+        {
+          "id": "amfathy_c04_i003",
+          "name": "أومليت ساده - فرنساوي",
+          "description": "",
+          "price": 21,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 3
+        },
+        {
+          "id": "amfathy_c04_i004",
+          "name": "أومليت بسطرمة - شامي",
+          "description": "",
+          "price": 25,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 4
+        },
+        {
+          "id": "amfathy_c04_i005",
+          "name": "أومليت بسطرمة - بلدي",
+          "description": "",
+          "price": 26,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 5
+        },
+        {
+          "id": "amfathy_c04_i006",
+          "name": "أومليت بسطرمة - فرنساوي",
+          "description": "",
+          "price": 29,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 6
+        },
+        {
+          "id": "amfathy_c04_i007",
+          "name": "بيض مسلوق - شامي",
+          "description": "",
+          "price": 15,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 7
+        },
+        {
+          "id": "amfathy_c04_i008",
+          "name": "بيض مسلوق - بلدي",
+          "description": "",
+          "price": 16,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 8
+        },
+        {
+          "id": "amfathy_c04_i009",
+          "name": "بيض مسلوق - فرنساوي",
+          "description": "",
+          "price": 21,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 9
+        },
+        {
+          "id": "amfathy_c04_i010",
+          "name": "بيض مدحرج - شامي",
+          "description": "",
+          "price": 19,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 10
+        },
+        {
+          "id": "amfathy_c04_i011",
+          "name": "بيض مدحرج - بلدي",
+          "description": "",
+          "price": 21,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 11
+        },
+        {
+          "id": "amfathy_c04_i012",
+          "name": "بيض مدحرج - فرنساوي",
+          "description": "",
+          "price": 30,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 12
+        },
+        {
+          "id": "amfathy_c04_i013",
+          "name": "اسبانش - شامي",
+          "description": "",
+          "price": 20,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 13
+        },
+        {
+          "id": "amfathy_c04_i014",
+          "name": "اسبانش - بلدي",
+          "description": "",
+          "price": 22,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 14
+        },
+        {
+          "id": "amfathy_c04_i015",
+          "name": "اسبانش - فرنساوي",
+          "description": "",
+          "price": 25,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 15
+        },
+        {
+          "id": "amfathy_c04_i016",
+          "name": "شكشوكة - شامي",
+          "description": "",
+          "price": 16,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 16
+        },
+        {
+          "id": "amfathy_c04_i017",
+          "name": "شكشوكة - بلدي",
+          "description": "",
+          "price": 17,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 17
+        },
+        {
+          "id": "amfathy_c04_i018",
+          "name": "شكشوكة - فرنساوي",
+          "description": "",
+          "price": 25,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 18
+        },
+        {
+          "id": "amfathy_c04_i019",
+          "name": "اباتشي - شامي",
+          "description": "سوسيس، مشروم، بصل، فلفل رومي",
+          "price": 27,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": true,
+          "sortOrder": 19
+        },
+        {
+          "id": "amfathy_c04_i020",
+          "name": "اباتشي - بلدي",
+          "description": "سوسيس، مشروم، بصل، فلفل رومي",
+          "price": 28,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": true,
+          "sortOrder": 20
+        },
+        {
+          "id": "amfathy_c04_i021",
+          "name": "اباتشي - فرنساوي",
+          "description": "سوسيس، مشروم، بصل، فلفل رومي",
+          "price": 35,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": true,
+          "sortOrder": 21
+        },
+        {
+          "id": "amfathy_c04_i022",
+          "name": "أومليت سوسيس - شامي",
+          "description": "",
+          "price": 25,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 22
+        },
+        {
+          "id": "amfathy_c04_i023",
+          "name": "أومليت سوسيس - بلدي",
+          "description": "",
+          "price": 24,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 23
+        },
+        {
+          "id": "amfathy_c04_i024",
+          "name": "أومليت سوسيس - فرنساوي",
+          "description": "",
+          "price": 30,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 24
+        },
+        {
+          "id": "amfathy_c04_i025",
+          "name": "أومليت سجق - شامي",
+          "description": "",
+          "price": 25,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 25
+        },
+        {
+          "id": "amfathy_c04_i026",
+          "name": "أومليت سجق - بلدي",
+          "description": "",
+          "price": 26,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 26
+        },
+        {
+          "id": "amfathy_c04_i027",
+          "name": "أومليت سجق - فرنساوي",
+          "description": "",
+          "price": 30,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 27
+        },
+        {
+          "id": "amfathy_c04_i028",
+          "name": "أومليت بيتزا - شامي",
+          "description": "بسطرمة، خضروات، جبنة رومي، زيتون",
+          "price": 26,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": true,
+          "sortOrder": 28
+        },
+        {
+          "id": "amfathy_c04_i029",
+          "name": "أومليت بيتزا - بلدي",
+          "description": "بسطرمة، خضروات، جبنة رومي، زيتون",
+          "price": 27,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": true,
+          "sortOrder": 29
+        },
+        {
+          "id": "amfathy_c04_i030",
+          "name": "أومليت بيتزا - فرنساوي",
+          "description": "بسطرمة، خضروات، جبنة رومي، زيتون",
+          "price": 32,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": true,
+          "sortOrder": 30
+        }
+      ]
+    },
+    {
+      "id": "amfathy_cat_05",
+      "name": "سندوتشات متنوعة",
+      "description": "الأسعار حسب نوع العيش المتاح.",
+      "sortOrder": 5,
+      "items": [
+        {
+          "id": "amfathy_c05_i001",
+          "name": "جبنة بيضاء بالطماطم - شامي",
+          "description": "",
+          "price": 17,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 1
+        },
+        {
+          "id": "amfathy_c05_i002",
+          "name": "جبنة بيضاء بالطماطم - بلدي",
+          "description": "",
+          "price": 16,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 2
+        },
+        {
+          "id": "amfathy_c05_i003",
+          "name": "جبنة بيضاء بالطماطم - فرنساوي",
+          "description": "",
+          "price": 21,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 3
+        },
+        {
+          "id": "amfathy_c05_i004",
+          "name": "جبنة قديمة بالطماطم - شامي",
+          "description": "",
+          "price": 25,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 4
+        },
+        {
+          "id": "amfathy_c05_i005",
+          "name": "جبنة قديمة بالطماطم - بلدي",
+          "description": "",
+          "price": 26,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 5
+        },
+        {
+          "id": "amfathy_c05_i006",
+          "name": "جبنة قديمة بالطماطم - فرنساوي",
+          "description": "",
+          "price": 29,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 6
+        },
+        {
+          "id": "amfathy_c05_i007",
+          "name": "جبنة رومي مقلية - شامي",
+          "description": "",
+          "price": 15,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 7
+        },
+        {
+          "id": "amfathy_c05_i008",
+          "name": "جبنة رومي مقلية - بلدي",
+          "description": "",
+          "price": 16,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 8
+        },
+        {
+          "id": "amfathy_c05_i009",
+          "name": "جبنة رومي مقلية - فرنساوي",
+          "description": "",
+          "price": 21,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 9
+        },
+        {
+          "id": "amfathy_c05_i010",
+          "name": "مسقعة - شامي",
+          "description": "",
+          "price": 19,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 10
+        },
+        {
+          "id": "amfathy_c05_i011",
+          "name": "مسقعة - بلدي",
+          "description": "",
+          "price": 21,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 11
+        },
+        {
+          "id": "amfathy_c05_i012",
+          "name": "مسقعة - فرنساوي",
+          "description": "",
+          "price": 30,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 12
+        },
+        {
+          "id": "amfathy_c05_i013",
+          "name": "بابا غنوج - شامي",
+          "description": "",
+          "price": 20,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 13
+        },
+        {
+          "id": "amfathy_c05_i014",
+          "name": "بابا غنوج - بلدي",
+          "description": "",
+          "price": 22,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 14
+        },
+        {
+          "id": "amfathy_c05_i015",
+          "name": "بابا غنوج - فرنساوي",
+          "description": "",
+          "price": 25,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 15
+        },
+        {
+          "id": "amfathy_c05_i016",
+          "name": "باذنجان مقلي - شامي",
+          "description": "",
+          "price": 16,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 16
+        },
+        {
+          "id": "amfathy_c05_i017",
+          "name": "باذنجان مقلي - بلدي",
+          "description": "",
+          "price": 17,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 17
+        },
+        {
+          "id": "amfathy_c05_i018",
+          "name": "باذنجان مقلي - فرنساوي",
+          "description": "",
+          "price": 25,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 18
+        },
+        {
+          "id": "amfathy_c05_i019",
+          "name": "باذنجان مقلي ليمونيتا - شامي",
+          "description": "",
+          "price": 27,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "شامي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 19
+        },
+        {
+          "id": "amfathy_c05_i020",
+          "name": "باذنجان مقلي ليمونيتا - بلدي",
+          "description": "",
+          "price": 28,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "بلدي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 20
+        },
+        {
+          "id": "amfathy_c05_i021",
+          "name": "باذنجان مقلي ليمونيتا - فرنساوي",
+          "description": "",
+          "price": 35,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "فرنساوي"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 21
+        }
+      ]
+    },
+    {
+      "id": "amfathy_cat_06",
+      "name": "سندوتشات الرول",
+      "description": "سندوتشات رول بسعر موحد لكل صنف.",
+      "sortOrder": 6,
+      "items": [
+        {
+          "id": "amfathy_c06_i001",
+          "name": "بطاطس سوري",
+          "description": "",
+          "price": 35,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "رول"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": true,
+          "sortOrder": 1
+        },
+        {
+          "id": "amfathy_c06_i002",
+          "name": "بطاطس موتزاريلا سوري",
+          "description": "",
+          "price": 45,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "رول"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 2
+        },
+        {
+          "id": "amfathy_c06_i003",
+          "name": "بطاطس شيدر سوري",
+          "description": "",
+          "price": 45,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "رول"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 3
+        },
+        {
+          "id": "amfathy_c06_i004",
+          "name": "بطاطس رومي سوري",
+          "description": "",
+          "price": 50,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "رول"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 4
+        },
+        {
+          "id": "amfathy_c06_i005",
+          "name": "بطاطس بسطرمة سوري",
+          "description": "",
+          "price": 45,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "رول"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 5
+        },
+        {
+          "id": "amfathy_c06_i006",
+          "name": "طعمية سوري",
+          "description": "",
+          "price": 25,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "رول"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 6
+        },
+        {
+          "id": "amfathy_c06_i007",
+          "name": "محشية سوري",
+          "description": "",
+          "price": 30,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "رول"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 7
+        },
+        {
+          "id": "amfathy_c06_i008",
+          "name": "طعمية كيري سوري",
+          "description": "",
+          "price": 45,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "رول"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 8
+        },
+        {
+          "id": "amfathy_c06_i009",
+          "name": "بيض بسطرمة سوري",
+          "description": "",
+          "price": 45,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "رول"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 9
+        },
+        {
+          "id": "amfathy_c06_i010",
+          "name": "اباتشي سوري",
+          "description": "",
+          "price": 45,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "رول"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 10
+        },
+        {
+          "id": "amfathy_c06_i011",
+          "name": "رومي مقلية سوري",
+          "description": "",
+          "price": 45,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "رول"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 11
+        },
+        {
+          "id": "amfathy_c06_i012",
+          "name": "بيض مسلوق سوري",
+          "description": "",
+          "price": 30,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "رول"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 12
+        },
+        {
+          "id": "amfathy_c06_i013",
+          "name": "أومليت بيتزا سوري",
+          "description": "",
+          "price": 55,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "رول"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": false,
+          "sortOrder": 13
+        },
+        {
+          "id": "amfathy_c06_i014",
+          "name": "ميكس عم فتحي",
+          "description": "أومليت، بسطرمة، بطاطس، ثومية، كاتشب، خيار مخلل",
+          "price": 55,
+          "oldPrice": "",
+          "currency": "جنيه",
+          "image": "",
+          "tags": [
+            "رول"
+          ],
+          "calories": "",
+          "prepTime": "10 دقائق",
+          "isAvailable": true,
+          "isFeatured": true,
+          "sortOrder": 14
+        }
+      ]
+    }
+  ],
+  "pdfAnalysis": {
+    "provider": "Manual cleaned from uploaded PDF",
+    "success": true,
+    "detectedItemsCount": 237,
+    "readMethod": "manual-cleaned-pdf",
+    "usedOcr": false,
+    "pages": 3,
+    "processedPages": 3,
+    "quality": "good",
+    "message": "تم تجهيز ملف JSON قابل للاستيراد داخل الموقع. تم استبعاد أي حجم سعره غير متاح."
+  },
+  "createdAt": "2026-06-13T15:35:02.295090Z",
+  "updatedAt": "2026-06-13T15:35:02.295090Z"
+}

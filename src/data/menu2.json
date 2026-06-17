@@ -1,0 +1,910 @@
+{
+  "id": "am-fathy-ready",
+  "restaurantName": "عم فتحي",
+  "restaurantType": "فول وطعمية",
+  "currency": "جنيه",
+
+  "categories": [
+    {
+      "id": "cat_foul",
+      "name": "سندوتشات الفول",
+      "items": [
+        {
+          "id": "fool_01",
+          "name": "فول",
+          "hasVariants": true,
+          "tags": ["فول"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 9 },
+            { "id": "baladi", "name": "بلدي", "price": 10 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 17 }
+          ]
+        },
+        {
+          "id": "fool_lemonita",
+          "name": "فول لمونيتا",
+          "hasVariants": true,
+          "tags": ["فول"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 11 },
+            { "id": "baladi", "name": "بلدي", "price": 12 }
+          ]
+        },
+        {
+          "id": "fool_har",
+          "name": "فول حار",
+          "hasVariants": true,
+          "tags": ["فول"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 11 },
+            { "id": "baladi", "name": "بلدي", "price": 12 }
+          ]
+        },
+        {
+          "id": "fool_zeitoon",
+          "name": "فول زيتون",
+          "hasVariants": true,
+          "tags": ["فول"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 12 },
+            { "id": "baladi", "name": "بلدي", "price": 13 }
+          ]
+        },
+        {
+          "id": "fool_special",
+          "name": "فول سبيشيال",
+          "hasVariants": true,
+          "tags": ["فول"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 12 },
+            { "id": "baladi", "name": "بلدي", "price": 13 }
+          ]
+        },
+        {
+          "id": "fool_iskandarani",
+          "name": "فول اسكندراني",
+          "hasVariants": true,
+          "tags": ["فول"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 12 },
+            { "id": "baladi", "name": "بلدي", "price": 12 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 12 }
+          ]
+        },
+        {
+          "id": "fool_salsa",
+          "name": "فول صلصة",
+          "hasVariants": true,
+          "tags": ["فول"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 12 },
+            { "id": "baladi", "name": "بلدي", "price": 13 }
+          ]
+        },
+        {
+          "id": "fool_zebda",
+          "name": "فول بالزبدة",
+          "hasVariants": true,
+          "tags": ["فول"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 13 },
+            { "id": "baladi", "name": "بلدي", "price": 14 }
+          ]
+        },
+        {
+          "id": "fool_samna",
+          "name": "فول بالسمنة",
+          "hasVariants": true,
+          "tags": ["فول"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 12 },
+            { "id": "baladi", "name": "بلدي", "price": 12 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 12 }
+          ]
+        },
+        {
+          "id": "fool_homs",
+          "name": "فول بالحمص",
+          "hasVariants": true,
+          "tags": ["فول"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 12 },
+            { "id": "baladi", "name": "بلدي", "price": 12 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 12 }
+          ]
+        },
+        {
+          "id": "fool_sogoq",
+          "name": "فول سجق",
+          "hasVariants": true,
+          "tags": ["فول"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 20 },
+            { "id": "baladi", "name": "بلدي", "price": 21 }
+          ]
+        },
+        {
+          "id": "fool_bastirma",
+          "name": "فول بسطرمة",
+          "hasVariants": true,
+          "tags": ["فول"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 22 },
+            { "id": "baladi", "name": "بلدي", "price": 23 }
+          ]
+        },
+        {
+          "id": "fool_beid",
+          "name": "فول بالبيض",
+          "hasVariants": true,
+          "tags": ["فول"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 16 },
+            { "id": "baladi", "name": "بلدي", "price": 18 }
+          ]
+        },
+        {
+          "id": "fool_omelette",
+          "name": "فول أومليت",
+          "hasVariants": true,
+          "tags": ["فول"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 18 },
+            { "id": "baladi", "name": "بلدي", "price": 20 }
+          ]
+        },
+        {
+          "id": "fool_taameya",
+          "name": "فول على طعمية",
+          "hasVariants": true,
+          "tags": ["فول"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 18 },
+            { "id": "baladi", "name": "بلدي", "price": 20 }
+          ]
+        }
+
+      ]
+    },
+
+    {
+      "id": "cat_taameya",
+      "name": "سندوتشات الطعمية",
+      "items": [
+        {
+          "id": "taameya_01",
+          "name": " طعمية عم فتحي",
+          "hasVariants": true,
+          "tags": ["طعمية"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 8 },
+            { "id": "baladi", "name": "بلدي", "price": 9 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 14 }
+          ]
+        },
+        {
+          "id": "taameya_02",
+          "name": " طعمية محشية",
+          "hasVariants": true,
+          "tags": ["طعمية"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 12 },
+            { "id": "baladi", "name": "بلدي", "price": 13 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 20 }
+          ]
+        },
+        {
+          "id": "taameya_03",
+          "name": " طعمية اسبيشيال",
+          "hasVariants": true,
+          "tags": ["طعمية"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 8 },
+            { "id": "baladi", "name": "بلدي", "price": 9 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 14 }
+          ]
+        },
+        {
+          "id": "taameya_04",
+          "name": " طعمية كيري",
+          "hasVariants": true,
+          "tags": ["طعمية"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 8 },
+            { "id": "baladi", "name": "بلدي", "price": 9 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 14 }
+          ]
+        },
+        {
+          "id": "taameya_05",
+          "name": " طعمية رومي",
+          "hasVariants": true,
+          "tags": ["طعمية"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 8 },
+            { "id": "baladi", "name": "بلدي", "price": 9 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 14 }
+          ]
+        },
+        {
+          "id": "taameya_06",
+          "name": " طعمية شيدر",
+          "hasVariants": true,
+          "tags": ["طعمية"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 8 },
+            { "id": "baladi", "name": "بلدي", "price": 9 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 14 }
+          ]
+        },
+        {
+          "id": "taameya_07",
+          "name": " طعمية بسطرمة",
+          "hasVariants": true,
+          "tags": ["طعمية"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 8 },
+            { "id": "baladi", "name": "بلدي", "price": 9 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 14 }
+          ]
+        },
+        {
+          "id": "taameya_08",
+          "name": " طعمية بيض مسلوق",
+          "hasVariants": true,
+          "tags": ["طعمية"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 8 },
+            { "id": "baladi", "name": "بلدي", "price": 9 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 14 }
+          ]
+        },
+        {
+          "id": "taameya_09",
+          "name": " طعمية أومليت",
+          "hasVariants": true,
+          "tags": ["طعمية"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 8 },
+            { "id": "baladi", "name": "بلدي", "price": 9 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 14 }
+          ]
+        },
+        {
+          "id": "taameya_10",
+          "name": " طعمية حمص",
+          "hasVariants": true,
+          "tags": ["طعمية"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 8 },
+            { "id": "baladi", "name": "بلدي", "price": 9 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 14 }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "cat_potato",
+      "name": "سندوتشات البطاطس",
+      "items": [
+        {
+          "id": "potato_01",
+          "name": "بطاطس",
+          "hasVariants": true,
+          "tags": ["بطاطس"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 10 },
+            { "id": "baladi", "name": "بلدي", "price": 11 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 15 }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "cat_egg",
+      "name": "سندوتشات البيض",
+      "items": [
+        {
+          "id": "egg_01",
+          "name": "بيض",
+          "hasVariants": true,
+          "tags": ["بيض"],
+          "variants": [
+            { "id": "boiled_shami", "name": "مسلوق شامي", "price": 14 },
+            { "id": "boiled_baladi", "name": "مسلوق بلدي", "price": 15 },
+            { "id": "omelette_shami", "name": "أومليت شامي", "price": 16 },
+            { "id": "omelette_baladi", "name": "أومليت بلدي", "price": 17 }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "cat_mixed",
+      "name": "سندوتشات متنوعة",
+      "items": [
+        {
+          "id": "mixed_01",
+          "name": "سندوتشات متنوعة",
+          "hasVariants": true,
+          "tags": ["متنوع"],
+          "variants": [
+            { "id": "sogoq", "name": "سجق", "price": 20 },
+            { "id": "bastirma", "name": "بسطرمة", "price": 22 }
+          ]
+        }
+      ]
+    },
+
+    {
+  "id": "cat_pizza",
+  "name": "البيتزا",
+  "items": [
+    {
+      "id": "pizza_mushroom",
+      "name": "بيتزا مشروم",
+      "hasVariants": true,
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 145 },
+        { "id": "small", "name": "صغير", "price": 115 }
+      ]
+    },
+    {
+      "id": "pizza_salami",
+      "name": "بيتزا سلامي",
+      "hasVariants": true,
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 145 },
+        { "id": "small", "name": "صغير", "price": 105 }
+      ]
+    },
+    {
+      "id": "pizza_hotdog",
+      "name": "بيتزا هوت دوج",
+      "hasVariants": true,
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 135 },
+        { "id": "small", "name": "صغير", "price": 100 }
+      ]
+    },
+    {
+      "id": "pizza_tuna",
+      "name": "بيتزا تونة",
+      "hasVariants": true,
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 145 },
+        { "id": "small", "name": "صغير", "price": 120 }
+      ]
+    },
+    {
+      "id": "pizza_cheese_lover",
+      "name": "بيتزا تشيز لافر",
+      "hasVariants": true,
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 170 },
+        { "id": "small", "name": "صغير", "price": 125 }
+      ]
+    },
+    {
+      "id": "pizza_meat",
+      "name": "بيتزا لحمة",
+      "hasVariants": true,
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 200 },
+        { "id": "small", "name": "صغير", "price": 165 }
+      ]
+    },
+    {
+      "id": "pizza_vegetables",
+      "name": "بيتزا خضروات",
+      "hasVariants": true,
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 135 },
+        { "id": "small", "name": "صغير", "price": 105 }
+      ]
+    },
+    {
+      "id": "pizza_am_fathy",
+      "name": "بيتزا عم فتحي",
+      "hasVariants": true,
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 245 },
+        { "id": "small", "name": "صغير", "price": 210 }
+      ]
+    },
+    {
+      "id": "pizza_margherita",
+      "name": "بيتزا مارجريتا",
+      "hasVariants": true,
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 180 },
+        { "id": "small", "name": "صغير", "price": 135 }
+      ]
+    },
+    {
+      "id": "pizza_super_supreme",
+      "name": "بيتزا سوبر سوبريم",
+      "hasVariants": true,
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 130 },
+        { "id": "small", "name": "صغير", "price": 90 }
+      ]
+    },
+    {
+      "id": "pizza_bbq",
+      "name": "بيتزا باربيكيو",
+      "hasVariants": true,
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 195 },
+        { "id": "small", "name": "صغير", "price": 150 }
+      ]
+    },
+    {
+      "id": "pizza_special",
+      "name": "بيتزا سبيشال",
+      "hasVariants": true,
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 205 },
+        { "id": "small", "name": "صغير", "price": 155 }
+      ]
+    },
+    {
+      "id": "pizza_magic",
+      "name": "بيتزا سحرية",
+      "hasVariants": true,
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 145 },
+        { "id": "small", "name": "صغير", "price": 115 }
+      ]
+    },
+    {
+      "id": "pizza_ranch",
+      "name": "بيتزا رانش",
+      "hasVariants": true,
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 225 },
+        { "id": "small", "name": "صغير", "price": 170 }
+      ]
+    },
+    {
+      "id": "pizza_buffalo",
+      "name": "بيتزا بافلو",
+      "hasVariants": true,
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 190 },
+        { "id": "small", "name": "صغير", "price": 155 }
+      ]
+    },
+    {
+      "id": "pizza_chicken_ranch",
+      "name": "بيتزا تشيكن رانش",
+      "hasVariants": true,
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 215 },
+        { "id": "small", "name": "صغير", "price": 160 }
+      ]
+    }
+  ]
+},
+
+{
+  "id": "cat_hawawshi",
+  "name": "حواوشي",
+  "items": [
+    {
+      "id": "hawawshi_mozzarella",
+      "name": "حواوشي موزريلا",
+      "hasVariants": false,
+      "price": 75,
+      "tags": ["حواوشي"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "hawawshi_mix_cheese",
+      "name": "حواوشي مكس جبن",
+      "hasVariants": false,
+      "price": 85,
+      "tags": ["حواوشي"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "hawawshi_chicken",
+      "name": "حواوشي مكسيكي دجاج",
+      "hasVariants": false,
+      "price": 95,
+      "tags": ["حواوشي"],
+      "image": "",
+      "isAvailable": true
+    }
+  ]
+},
+
+{
+  "id": "cat_pasta",
+  "name": "الباستا",
+  "items": [
+    {
+      "id": "pasta_alfredo",
+      "name": "باستا الفريدو",
+      "hasVariants": false,
+      "price": 105,
+      "tags": ["باستا"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "pasta_fettuccine",
+      "name": "فوتتشيني",
+      "hasVariants": false,
+      "price": 120,
+      "tags": ["باستا"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "pasta_bolognese",
+      "name": "مكرونة بولونيز",
+      "hasVariants": false,
+      "price": 120,
+      "tags": ["باستا"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "pasta_sausage",
+      "name": "مكرونة سوسيس",
+      "hasVariants": false,
+      "price": 100,
+      "tags": ["باستا"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "pasta_liver",
+      "name": "مكرونة كبدة",
+      "hasVariants": false,
+      "price": 95,
+      "tags": ["باستا"],
+      "image": "",
+      "isAvailable": true
+    },
+
+    {
+      "id": "pasta_béchamel",
+      "name": "مكرونة بشاميل",
+      "hasVariants": true,
+      "tags": ["باستا"],
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 85 },
+        { "id": "small", "name": "صغير", "price": 55 }
+      ],
+      "image": "",
+      "isAvailable": true
+    }
+  ]
+},
+
+{
+  "id": "cat_chicken_sandwiches",
+  "name": "سندوتشات الفراخ",
+  "items": [
+    {
+      "id": "shawarma_chicken",
+      "name": "شاورما فراخ",
+      "hasVariants": true,
+      "tags": ["فراخ"],
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 80 },
+        { "id": "sori", "name": "سوري", "price": 60 },
+        { "id": "french", "name": "فرنساوي", "price": 95 }
+      ]
+    },
+    {
+      "id": "chicken_fahita",
+      "name": "فاهيتا فراخ",
+      "hasVariants": true,
+      "tags": ["فراخ"],
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 82 },
+        { "id": "sori", "name": "سوري", "price": 72 },
+        { "id": "french", "name": "فرنساوي", "price": 95 }
+      ]
+    },
+    {
+      "id": "chicken_strips",
+      "name": "استربس",
+      "hasVariants": true,
+      "tags": ["فراخ"],
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 90 },
+        { "id": "sori", "name": "سوري", "price": 72 },
+        { "id": "french", "name": "فرنساوي", "price": 90 }
+      ]
+    },
+    {
+      "id": "chicken_zinger",
+      "name": "زنجر",
+      "hasVariants": true,
+      "tags": ["فراخ"],
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 90 },
+        { "id": "sori", "name": "سوري", "price": 75 },
+        { "id": "french", "name": "فرنساوي", "price": 95 }
+      ]
+    },
+    {
+      "id": "chicken_kerspy",
+      "name": "كرسبي",
+      "hasVariants": true,
+      "tags": ["فراخ"],
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 70 },
+        { "id": "sori", "name": "سوري", "price": 72 },
+        { "id": "french", "name": "فرنساوي", "price": 75 }
+      ]
+    }
+  ]
+},
+
+{
+  "id": "cat_meat_sandwiches",
+  "name": "سندوتشات اللحوم",
+  "items": [
+    {
+      "id": "meat_shawarma",
+      "name": "شاورما لحمة",
+      "hasVariants": true,
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 65 },
+        { "id": "sori", "name": "سوري", "price": 105 },
+        { "id": "french", "name": "فرنساوي", "price": 95 }
+      ]
+    },
+    {
+      "id": "liver_iskandarani",
+      "name": "كبدة اسكندراني",
+      "hasVariants": true,
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 30 },
+        { "id": "sori", "name": "سوري", "price": 60 },
+        { "id": "french", "name": "فرنساوي", "price": 35 }
+      ]
+    },
+    {
+      "id": "liver_grill",
+      "name": "كبدة مشوية جريل",
+      "hasVariants": true,
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 50 },
+        { "id": "sori", "name": "سوري", "price": 55 },
+        { "id": "french", "name": "فرنساوي", "price": 45 }
+      ]
+    },
+    {
+      "id": "sausage",
+      "name": "سوسيس",
+      "hasVariants": true,
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 60 },
+        { "id": "sori", "name": "سوري", "price": 65 },
+        { "id": "french", "name": "فرنساوي", "price": 65 }
+      ]
+    },
+    {
+      "id": "sogoq",
+      "name": "سجق",
+      "hasVariants": true,
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 55 },
+        { "id": "sori", "name": "سوري", "price": 65 },
+        { "id": "french", "name": "فرنساوي", "price": 60 }
+      ]
+    },
+    {
+      "id": "burger_plain",
+      "name": "برجر سادة",
+      "hasVariants": true,
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 55 },
+        { "id": "sori", "name": "سوري", "price": 60 }
+      ]
+    },
+    {
+      "id": "burger_egg",
+      "name": "برجر بيض",
+      "hasVariants": true,
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 65 },
+        { "id": "sori", "name": "سوري", "price": 70 }
+      ]
+    },
+    {
+      "id": "burger_cheese",
+      "name": "برجر جبنة",
+      "hasVariants": true,
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 65 },
+        { "id": "sori", "name": "سوري", "price": 70 }
+      ]
+    },
+    {
+      "id": "burger_double",
+      "name": "برجر دبل",
+      "hasVariants": true,
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 85 },
+        { "id": "sori", "name": "سوري", "price": 90 }
+      ]
+    }
+  ]
+},
+{
+  "id": "cat_crepe",
+  "name": "الكريب",
+  "items": [
+    {
+      "id": "crepe_chicken_shawarma",
+      "name": "كريب شاورما فراخ",
+      "hasVariants": true,
+      "tags": ["كريب"],
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 105 },
+        { "id": "sori", "name": "سوري", "price": 85 },
+        { "id": "french", "name": "فرنساوي", "price": 80 }
+      ]
+    },
+    {
+      "id": "crepe_meat_shawarma",
+      "name": "كريب شاورما لحمة",
+      "hasVariants": true,
+      "tags": ["كريب"],
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 110 },
+        { "id": "sori", "name": "سوري", "price": 95 },
+        { "id": "french", "name": "فرنساوي", "price": 90 }
+      ]
+    },
+    {
+      "id": "crepe_fahita_chicken",
+      "name": "كريب فاهيتا فراخ",
+      "hasVariants": true,
+      "tags": ["كريب"],
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 120 },
+        { "id": "sori", "name": "سوري", "price": 95 },
+        { "id": "french", "name": "فرنساوي", "price": 90 }
+      ]
+    },
+    {
+      "id": "crepe_chicken_panier",
+      "name": "كريب بانيه",
+      "hasVariants": true,
+      "tags": ["كريب"],
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 110 },
+        { "id": "sori", "name": "سوري", "price": 105 },
+        { "id": "french", "name": "فرنساوي", "price": 105 }
+      ]
+    },
+    {
+      "id": "crepe_zinger",
+      "name": "كريب زنجر",
+      "hasVariants": true,
+      "tags": ["كريب"],
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 110 },
+        { "id": "sori", "name": "سوري", "price": 105 },
+        { "id": "french", "name": "فرنساوي", "price": 105 }
+      ]
+    },
+    {
+      "id": "crepe_crispy",
+      "name": "كريب كريسبي",
+      "hasVariants": true,
+      "tags": ["كريب"],
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 80 },
+        { "id": "sori", "name": "سوري", "price": 75 },
+        { "id": "french", "name": "فرنساوي", "price": 70 }
+      ]
+    },
+    {
+      "id": "crepe_burger",
+      "name": "كريب برجر",
+      "hasVariants": true,
+      "tags": ["كريب"],
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 85 },
+        { "id": "sori", "name": "سوري", "price": 75 },
+        { "id": "french", "name": "فرنساوي", "price": 70 }
+      ]
+    },
+    {
+      "id": "crepe_sausage",
+      "name": "كريب سوسيس",
+      "hasVariants": true,
+      "tags": ["كريب"],
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 75 },
+        { "id": "sori", "name": "سوري", "price": 70 },
+        { "id": "french", "name": "فرنساوي", "price": 70 }
+      ]
+    },
+    {
+      "id": "crepe_mix_cheese",
+      "name": "كريب مكس جبن",
+      "hasVariants": true,
+      "tags": ["كريب"],
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 75 },
+        { "id": "sori", "name": "سوري", "price": 70 },
+        { "id": "french", "name": "فرنساوي", "price": 70 }
+      ]
+    },
+    {
+      "id": "crepe_mexican",
+      "name": "كريب مكسيكي",
+      "hasVariants": true,
+      "tags": ["كريب"],
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 75 },
+        { "id": "sori", "name": "سوري", "price": 72 },
+        { "id": "french", "name": "فرنساوي", "price": 70 }
+      ]
+    },
+
+    {
+      "id": "crepe_sweet_nutella",
+      "name": "كريب نوتيلا",
+      "hasVariants": true,
+      "tags": ["حلو"],
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 130 }
+      ]
+    },
+    {
+      "id": "crepe_oreo",
+      "name": "كريب أوريو",
+      "hasVariants": true,
+      "tags": ["حلو"],
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 130 }
+      ]
+    },
+    {
+      "id": "crepe_twix",
+      "name": "كريب تويكس",
+      "hasVariants": true,
+      "tags": ["حلو"],
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 140 }
+      ]
+    },
+    {
+      "id": "crepe_kinder",
+      "name": "كريب كيندر",
+      "hasVariants": true,
+      "tags": ["حلو"],
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 140 }
+      ]
+    },
+    {
+      "id": "crepe_lotus",
+      "name": "كريب لوتس",
+      "hasVariants": true,
+      "tags": ["حلو"],
+      "variants": [
+        { "id": "big", "name": "كبير", "price": 140 }
+      ]
+    }
+  ]
+}
+    
+  ]
+}
+
