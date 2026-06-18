@@ -1,4 +1,3 @@
-console.log(buildWhatsAppUrl({ cart, customer }));
 import { useMemo, useState } from "react";
 import { useCart } from "../context/CartContext";
 import menu from "../data/menu2.json";

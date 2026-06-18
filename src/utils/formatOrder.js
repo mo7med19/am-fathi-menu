@@ -1,45 +1,73 @@
 import menu from "../data/menu2.json";
 
+export function calculateCartTotal(cart = []) {
+  return cart.reduce((sum, item) => {
+    const price = Number(item.unitPrice ?? item.price ?? 0);
+    const qty = Number(item.qty ?? 1);
+
+    return sum + price * qty;
+  }, 0);
+}
+
 function normalizeWhatsAppNumber(number = "") {
   let cleaned = String(number).replace(/\D/g, "");
 
-  // لو الرقم مكتوب 01012345678 نحوله تلقائيًا إلى 201012345678
-  if (cleaned.startsWith("0")) {
-    cleaned = `2${cleaned}`;
-  }
-
-  // لو الرقم مكتوب 00201012345678 نحوله إلى 201012345678
+  // مثال: 00201012345678 => 201012345678
   if (cleaned.startsWith("00")) {
     cleaned = cleaned.slice(2);
+  }
+
+  // مثال: 01012345678 => 201012345678
+  if (cleaned.startsWith("0")) {
+    cleaned = `2${cleaned}`;
   }
 
   return cleaned;
 }
 
 export function getWhatsAppNumber() {
+  // يعتمد فقط على whatsappNumber
+  // لا يعتمد على phone نهائيًا
   return normalizeWhatsAppNumber(menu.whatsappNumber || "");
 }
 
 export function buildWhatsAppUrl({ cart, customer }) {
   const whatsappNumber = getWhatsAppNumber();
 
+  if (!whatsappNumber) {
+    return "";
+  }
+
+  const total = calculateCartTotal(cart);
+
   const lines = [
-    "طلب جديد من منيو عم فتحي",
+    `طلب جديد من ${menu.restaurantName || "المطعم"}`,
     "-------------------------",
-    `الاسم: ${customer.name}`,
+
+    `اسم العميل: ${customer.name}`,
     `رقم العميل: ${customer.phone}`,
+
     customer.address ? `العنوان: ${customer.address}` : "",
     customer.orderNotes ? `ملاحظات عامة: ${customer.orderNotes}` : "",
+
     "",
     "تفاصيل الطلب:",
-    ...cart.map((item) => {
-      const variant = item.variant ? ` - ${item.variant}` : "";
-      const notes = item.notes ? ` | ملاحظات: ${item.notes}` : "";
 
-      return `- ${item.name}${variant} × ${item.qty} = ${
-        item.unitPrice * item.qty
-      } ${item.currency || menu.currency}${notes}`;
-    })
+    ...cart.map((item, index) => {
+      const variant = item.variant ? ` - ${item.variant}` : "";
+      const notes = item.notes ? `\nملاحظات: ${item.notes}` : "";
+      const itemCurrency = item.currency || menu.currency || "";
+      const itemTotal = Number(item.unitPrice || 0) * Number(item.qty || 0);
+
+      return `${index + 1}) ${item.name}${variant}
+الكمية: ${item.qty}
+سعر الوحدة: ${item.unitPrice} ${itemCurrency}
+الإجمالي: ${itemTotal} ${itemCurrency}${notes}`;
+    }),
+
+    "",
+    "-------------------------",
+    `الإجمالي الكلي: ${total} ${menu.currency || ""}`
   ].filter(Boolean);
 
   const message = encodeURIComponent(lines.join("\n"));
