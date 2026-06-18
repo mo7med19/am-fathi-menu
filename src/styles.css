@@ -21,8 +21,18 @@ svg {
 
 :root {
   font-family: Arial, Tahoma, sans-serif;
-  color: #241f1a;
-  background: #f8f3e9;
+
+  --primary: #f28c18;
+  --secondary: #11100f;
+  --accent: #ff9a1f;
+
+  --background: #fff7eb;
+  --surface: #ffffff;
+
+  --text: #1f1a16;
+  --muted: #8a7763;
+
+  --border: rgba(31, 26, 22, 0.08);
 }
 
 html {
@@ -31,11 +41,18 @@ html {
 
 body {
   direction: rtl;
-  background: var(--background);
+ background: var(--background);
   color: var(--text);
   min-height: 100vh;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
+}
+.menu-card,
+.search-panel,
+.cart-item,
+.modal,
+.mini-cart {
+  background: var(--surface);
 }
 
 /* =========================
@@ -51,9 +68,9 @@ body {
 
 .variants button {
   border: 1px solid rgba(36, 31, 26, 0.15);
-  background: #fff;
-  color: var(--text);
-  padding: 8px 12px;
+background: var(--secondary);
+  color: #fff;
+  border-color: var(--primary);  padding: 8px 12px;
   border-radius: 999px;
   font-size: 13px;
   cursor: pointer;
@@ -437,9 +454,9 @@ textarea:focus {
 
 /* active category */
 .category-bar button.active {
-  background: #4f6f52;
+  background: var(--secondary);
   color: #fff;
-  border-color: #4f6f52;
+  border-color: var(--primary);
 }
 
 /* =========================
@@ -602,7 +619,7 @@ textarea:focus {
   height: 38px;
   border: 0;
   border-radius: 50%;
-  background: var(--accent);
+  Background: var(--primary);
   color: #fff;
   font-size: 22px;
   display: inline-flex;
@@ -834,6 +851,39 @@ textarea {
   margin-bottom: 12px;
 }
 
+.scroll-top-btn {
+  position: fixed;
+  left: 16px;
+  bottom: 86px;
+  width: 44px;
+  height: 44px;
+  border: 0;
+  border-radius: 50%;
+  background: #f28c18;
+  color: #fff;
+  font-size: 24px;
+  font-weight: 700;
+  z-index: 70;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.22);
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(12px);
+  transition: 0.25s ease;
+}
+
+.scroll-top-btn.show {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.scroll-top-btn:hover {
+  transform: translateY(-2px);
+}
+
 @keyframes slideUp {
   from { transform: translateY(18px); opacity: 0; }
   to { transform: translateY(0); opacity: 1; }
@@ -966,6 +1016,9 @@ textarea {
     left: 10px;
     bottom: calc(10px + env(safe-area-inset-bottom));
     padding: 12px 14px;
+    background: var(--secondary);
+  color: #fff;
+  border: 1px solid rgba(242, 140, 24, 0.35);
   }
 
   .mini-cart {

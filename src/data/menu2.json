@@ -4,10 +4,10 @@
   "restaurantType": "فول وطعمية",
   "description": "أكلات فول وطعمية بطعم زمان",
   "phone": "01012345678",
-  "address": "فرع فيصل - الجيزة",
-  "workingHoursText": "يوميًا من 7 صباحًا إلى 12 مساءً",
+  "address": "فرع العبور - بجوار بنك مصر",
+  "workingHoursText": "يوميًا من 9 صباحًا إلى 12 مساءً",
   "openingHours": {
-    "open": "07:00",
+    "open": "09:00",
     "close": "00:00"
   },
 
