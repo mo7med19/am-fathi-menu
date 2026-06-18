@@ -41,34 +41,34 @@ export function buildWhatsAppUrl({ cart, customer }) {
   const total = calculateCartTotal(cart);
 
   const lines = [
-    `طلب جديد من ${menu.restaurantName || "المطعم"}`,
-    "-------------------------",
+  `طلب جديد من ${menu.restaurantName || "المطعم"}`,
+  "-------------------------",
 
-    `اسم العميل: ${customer.name}`,
-    `رقم العميل: ${customer.phone}`,
+  `اسم العميل: ${customer.name}`,
+  `رقم العميل: ${customer.phone}`,
 
-    customer.address ? `العنوان: ${customer.address}` : "",
-    customer.orderNotes ? `ملاحظات عامة: ${customer.orderNotes}` : "",
+  customer.address ? `العنوان: ${customer.address}` : "",
 
-    "",
-    "تفاصيل الطلب:",
+  customer.orderNotes ? `ملاحظات عامة: ${customer.orderNotes}` : "",
 
-    ...cart.map((item, index) => {
-      const variant = item.variant ? ` - ${item.variant}` : "";
-      const notes = item.notes ? `\nملاحظات: ${item.notes}` : "";
-      const itemCurrency = item.currency || menu.currency || "";
-      const itemTotal = Number(item.unitPrice || 0) * Number(item.qty || 0);
+  "",
+  "تفاصيل الطلب:",
 
-      return `${index + 1}) ${item.name}${variant}
+  ...cart.map((item, index) => {
+    const variant = item.variant ? ` - ${item.variant}` : "";
+    const itemCurrency = item.currency || menu.currency || "";
+    const itemTotal = Number(item.unitPrice || 0) * Number(item.qty || 0);
+
+    return `${index + 1}) ${item.name}${variant}
 الكمية: ${item.qty}
 سعر الوحدة: ${item.unitPrice} ${itemCurrency}
-الإجمالي: ${itemTotal} ${itemCurrency}${notes}`;
-    }),
+الإجمالي: ${itemTotal} ${itemCurrency}`;
+  }),
 
-    "",
-    "-------------------------",
-    `الإجمالي الكلي: ${total} ${menu.currency || ""}`
-  ].filter(Boolean);
+  "",
+  "-------------------------",
+  `الإجمالي الكلي: ${total} ${menu.currency || ""}`
+].filter(Boolean);
 
   const message = encodeURIComponent(lines.join("\n"));
 

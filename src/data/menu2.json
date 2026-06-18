@@ -19,9 +19,10 @@
       "items": [
         {
           "id": "fool_01",
-          "name": "فول",
+          "name": " فول عم فتحي",
           "hasVariants": true,
           "tags": ["فول"],
+          "image": "/images/items/fool_01.png",
           "variants": [
             { "id": "shami", "name": "شامي", "price": 9 },
             { "id": "baladi", "name": "بلدي", "price": 10 },
@@ -31,6 +32,7 @@
         {
           "id": "fool_lemonita",
           "name": "فول لمونيتا",
+          "image": "/images/items/fool_lemonita.png",
           "hasVariants": true,
           "tags": ["فول"],
           "variants": [
@@ -41,6 +43,7 @@
         {
           "id": "fool_har",
           "name": "فول حار",
+          "image":"/images/items/fool_har.png",
           "hasVariants": true,
           "tags": ["فول"],
           "variants": [
@@ -51,6 +54,7 @@
         {
           "id": "fool_zeitoon",
           "name": "فول زيتون",
+          "image":"/images/items/fool_zeitoon.png",
           "hasVariants": true,
           "tags": ["فول"],
           "variants": [
@@ -61,6 +65,7 @@
         {
           "id": "fool_special",
           "name": "فول سبيشيال",
+          "image":"/images/items/fool_special.png",
           "hasVariants": true,
           "tags": ["فول"],
           "variants": [
@@ -71,6 +76,7 @@
         {
           "id": "fool_iskandarani",
           "name": "فول اسكندراني",
+          "image":"/images/items/fool_iskandarani.png",
           "hasVariants": true,
           "tags": ["فول"],
           "variants": [
@@ -82,6 +88,7 @@
         {
           "id": "fool_salsa",
           "name": "فول صلصة",
+          "image":"/images/items/fool_salsa.png",
           "hasVariants": true,
           "tags": ["فول"],
           "variants": [
@@ -92,6 +99,7 @@
         {
           "id": "fool_zebda",
           "name": "فول بالزبدة",
+          "image":"/images/items/fool_zebda.png",
           "hasVariants": true,
           "tags": ["فول"],
           "variants": [
@@ -102,6 +110,7 @@
         {
           "id": "fool_samna",
           "name": "فول بالسمنة",
+          "image":"/images/items/fool_samna.png",
           "hasVariants": true,
           "tags": ["فول"],
           "variants": [
@@ -113,6 +122,7 @@
         {
           "id": "fool_homs",
           "name": "فول بالحمص",
+          "image":"/images/items/fool_homs.png",
           "hasVariants": true,
           "tags": ["فول"],
           "variants": [
@@ -124,6 +134,7 @@
         {
           "id": "fool_sogoq",
           "name": "فول سجق",
+          "image":"/images/items/fool_sogoq.png",
           "hasVariants": true,
           "tags": ["فول"],
           "variants": [
@@ -134,6 +145,7 @@
         {
           "id": "fool_bastirma",
           "name": "فول بسطرمة",
+          "image":"/images/items/fool_bastirma.png",
           "hasVariants": true,
           "tags": ["فول"],
           "variants": [
@@ -144,6 +156,7 @@
         {
           "id": "fool_beid",
           "name": "فول بالبيض",
+          "image":"/images/items/fool_beid.png",
           "hasVariants": true,
           "tags": ["فول"],
           "variants": [
@@ -154,6 +167,7 @@
         {
           "id": "fool_omelette",
           "name": "فول أومليت",
+          "image":"/images/items/fool_omelette.png",
           "hasVariants": true,
           "tags": ["فول"],
           "variants": [
@@ -164,6 +178,7 @@
         {
           "id": "fool_taameya",
           "name": "فول على طعمية",
+          "image":"/images/items/fool_taameya.png",
           "hasVariants": true,
           "tags": ["فول"],
           "variants": [
