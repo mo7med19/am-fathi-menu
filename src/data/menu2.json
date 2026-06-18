@@ -3,9 +3,10 @@
   "restaurantName": "عم فتحي",
   "restaurantType": "فول وطعمية",
   "description": "أكلات فول وطعمية بطعم زمان",
-  "phone": "01012345678",
+  "phone": "+20 11 18921117",
   "address": "فرع العبور - بجوار بنك مصر",
   "workingHoursText": "يوميًا من 9 صباحًا إلى 12 مساءً",
+  "whatsappNumber": "201032132924",
   "openingHours": {
     "open": "09:00",
     "close": "00:00"
