@@ -1,68 +1,48 @@
 import menu from "../data/menu2.json";
-import { formatMoney } from "./money";
 
-const cleanWhatsAppNumber = (value = "") => {
-  return String(value).replace(/[^0-9]/g, "");
-};
+function normalizeWhatsAppNumber(number = "") {
+  let cleaned = String(number).replace(/\D/g, "");
 
-export const getWhatsAppNumber = () => {
-  return cleanWhatsAppNumber(menu.whatsapp || menu.phone || "");
-};
-
-const formatOptions = (item) => {
-  const parts = [];
-
-  if (item.notes) {
-    parts.push(`ملاحظات: ${item.notes}`);
+  // لو الرقم مكتوب 01012345678 نحوله تلقائيًا إلى 201012345678
+  if (cleaned.startsWith("0")) {
+    cleaned = `2${cleaned}`;
   }
 
-  return parts.length ? `\n   ${parts.join(" | ")}` : "";
-};
+  // لو الرقم مكتوب 00201012345678 نحوله إلى 201012345678
+  if (cleaned.startsWith("00")) {
+    cleaned = cleaned.slice(2);
+  }
 
-export const calculateCartTotal = (cart = []) => {
-  return cart.reduce((sum, item) => {
-    const price = Number(item.unitPrice || 0);
-    const qty = Number(item.qty || 0);
-    return sum + price * qty;
-  }, 0);
-};
+  return cleaned;
+}
 
-export const formatOrderMessage = ({ cart, customer }) => {
-  const currency = menu.currency || "جنيه";
-  const total = calculateCartTotal(cart);
-  const now = new Date().toLocaleString("ar-EG", {
-    dateStyle: "medium",
-    timeStyle: "short"
-  });
+export function getWhatsAppNumber() {
+  return normalizeWhatsAppNumber(menu.whatsappNumber || "");
+}
 
-  const lines = cart.map((item, index) => {
-    const lineTotal = Number(item.unitPrice || 0) * Number(item.qty || 0);
-    return `${index + 1}) ${item.name}\n   الكمية: ${item.qty}\n   سعر الوحدة: ${formatMoney(item.unitPrice, item.currency || currency)}\n   الإجمالي: ${formatMoney(lineTotal, item.currency || currency)}${formatOptions(item)}`;
-  });
+export function buildWhatsAppUrl({ cart, customer }) {
+  const whatsappNumber = getWhatsAppNumber();
 
-  return [
-    `طلب جديد من منيو ${menu.restaurantName || "المطعم"}`,
-    "------------------------------",
-    `الوقت: ${now}`,
+  const lines = [
+    "طلب جديد من منيو عم فتحي",
+    "-------------------------",
     `الاسم: ${customer.name}`,
-    `الموبايل: ${customer.phone}`,
-    customer.address ? `العنوان: ${customer.address}` : null,
-    customer.orderNotes ? `ملاحظات عامة: ${customer.orderNotes}` : null,
-    "------------------------------",
+    `رقم العميل: ${customer.phone}`,
+    customer.address ? `العنوان: ${customer.address}` : "",
+    customer.orderNotes ? `ملاحظات عامة: ${customer.orderNotes}` : "",
+    "",
     "تفاصيل الطلب:",
-    lines.join("\n\n"),
-    "------------------------------",
-    `الإجمالي النهائي: ${formatMoney(total, currency)}`
-  ].filter(Boolean).join("\n");
-};
+    ...cart.map((item) => {
+      const variant = item.variant ? ` - ${item.variant}` : "";
+      const notes = item.notes ? ` | ملاحظات: ${item.notes}` : "";
 
-export const buildWhatsAppUrl = ({ cart, customer }) => {
-  const number = getWhatsAppNumber();
-  const message = formatOrderMessage({ cart, customer });
+      return `- ${item.name}${variant} × ${item.qty} = ${
+        item.unitPrice * item.qty
+      } ${item.currency || menu.currency}${notes}`;
+    })
+  ].filter(Boolean);
 
-  if (!number) {
-    return null;
-  }
+  const message = encodeURIComponent(lines.join("\n"));
 
-  return `https://wa.me/${number}?text=${encodeURIComponent(message)}`;
-};
+  return `https://wa.me/${whatsappNumber}?text=${message}`;
+}
