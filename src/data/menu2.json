@@ -182,8 +182,8 @@
           "hasVariants": true,
           "tags": ["فول"],
           "variants": [
-            { "id": "shami", "name": "شامي", "price": 18 },
-            { "id": "baladi", "name": "بلدي", "price": 20 }
+            { "id": "shami", "name": "شامي", "price": 15 },
+            { "id": "baladi", "name": "بلدي", "price": 17 }
           ]
         }
 
@@ -200,9 +200,9 @@
           "hasVariants": true,
           "tags": ["طعمية"],
           "variants": [
-            { "id": "shami", "name": "شامي", "price": 8 },
-            { "id": "baladi", "name": "بلدي", "price": 9 },
-            { "id": "fransawi", "name": "فرنساوي", "price": 14 }
+            { "id": "shami", "name": "شامي", "price": 10 },
+            { "id": "baladi", "name": "بلدي", "price": 11 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 23 }
           ]
         },
         {
@@ -211,9 +211,9 @@
           "hasVariants": true,
           "tags": ["طعمية"],
           "variants": [
-            { "id": "shami", "name": "شامي", "price": 12 },
-            { "id": "baladi", "name": "بلدي", "price": 13 },
-            { "id": "fransawi", "name": "فرنساوي", "price": 20 }
+            { "id": "shami", "name": "شامي", "price": 13 },
+            { "id": "baladi", "name": "بلدي", "price": 14 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 23 }
           ]
         },
         {
@@ -222,9 +222,9 @@
           "hasVariants": true,
           "tags": ["طعمية"],
           "variants": [
-            { "id": "shami", "name": "شامي", "price": 8 },
-            { "id": "baladi", "name": "بلدي", "price": 9 },
-            { "id": "fransawi", "name": "فرنساوي", "price": 14 }
+            { "id": "shami", "name": "شامي", "price": 14 },
+            { "id": "baladi", "name": "بلدي", "price": 15 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 23 }
           ]
         },
         {
@@ -233,9 +233,9 @@
           "hasVariants": true,
           "tags": ["طعمية"],
           "variants": [
-            { "id": "shami", "name": "شامي", "price": 8 },
-            { "id": "baladi", "name": "بلدي", "price": 9 },
-            { "id": "fransawi", "name": "فرنساوي", "price": 14 }
+            { "id": "shami", "name": "شامي", "price": 21 },
+            { "id": "baladi", "name": "بلدي", "price": 22 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 30 }
           ]
         },
         {
@@ -244,9 +244,9 @@
           "hasVariants": true,
           "tags": ["طعمية"],
           "variants": [
-            { "id": "shami", "name": "شامي", "price": 8 },
-            { "id": "baladi", "name": "بلدي", "price": 9 },
-            { "id": "fransawi", "name": "فرنساوي", "price": 14 }
+            { "id": "shami", "name": "شامي", "price": 21 },
+            { "id": "baladi", "name": "بلدي", "price": 22 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 28 }
           ]
         },
         {
@@ -255,9 +255,9 @@
           "hasVariants": true,
           "tags": ["طعمية"],
           "variants": [
-            { "id": "shami", "name": "شامي", "price": 8 },
-            { "id": "baladi", "name": "بلدي", "price": 9 },
-            { "id": "fransawi", "name": "فرنساوي", "price": 14 }
+            { "id": "shami", "name": "شامي", "price": 21 },
+            { "id": "baladi", "name": "بلدي", "price": 22 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 28 }
           ]
         },
         {
@@ -266,9 +266,9 @@
           "hasVariants": true,
           "tags": ["طعمية"],
           "variants": [
-            { "id": "shami", "name": "شامي", "price": 8 },
-            { "id": "baladi", "name": "بلدي", "price": 9 },
-            { "id": "fransawi", "name": "فرنساوي", "price": 14 }
+            { "id": "shami", "name": "شامي", "price": 21 },
+            { "id": "baladi", "name": "بلدي", "price": 23 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 28 }
           ]
         },
         {
@@ -277,9 +277,9 @@
           "hasVariants": true,
           "tags": ["طعمية"],
           "variants": [
-            { "id": "shami", "name": "شامي", "price": 8 },
-            { "id": "baladi", "name": "بلدي", "price": 9 },
-            { "id": "fransawi", "name": "فرنساوي", "price": 14 }
+            { "id": "shami", "name": "شامي", "price": 17 },
+            { "id": "baladi", "name": "بلدي", "price": 18 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 33 }
           ]
         },
         {
@@ -288,9 +288,9 @@
           "hasVariants": true,
           "tags": ["طعمية"],
           "variants": [
-            { "id": "shami", "name": "شامي", "price": 8 },
-            { "id": "baladi", "name": "بلدي", "price": 9 },
-            { "id": "fransawi", "name": "فرنساوي", "price": 14 }
+            { "id": "shami", "name": "شامي", "price": 25 },
+            { "id": "baladi", "name": "بلدي", "price": 26 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 35 }
           ]
         },
         {
@@ -299,9 +299,95 @@
           "hasVariants": true,
           "tags": ["طعمية"],
           "variants": [
-            { "id": "shami", "name": "شامي", "price": 8 },
-            { "id": "baladi", "name": "بلدي", "price": 9 },
-            { "id": "fransawi", "name": "فرنساوي", "price": 14 }
+            { "id": "shami", "name": "شامي", "price": 12 },
+            { "id": "baladi", "name": "بلدي", "price": 12 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 12 }
+          ]
+        },
+        {
+          "id": "taameya_11",
+          "name": "ميكس محشية",
+          "hasVariants": true,
+          "tags": ["طعمية"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 16 },
+            { "id": "baladi", "name": "بلدي", "price": 20 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 27 }
+          ]
+        },
+        {
+          "id": "taameya_12",
+          "name": " طعمية ليمونيتا",
+          "hasVariants": true,
+          "tags": ["طعمية"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 22 },
+            { "id": "baladi", "name": "بلدي", "price": 23 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 27 }
+          ]
+        },
+        {
+          "id": "taameya_13",
+          "name": " طعمية على باذنجان",
+          "hasVariants": true,
+          "tags": ["طعمية"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 15 },
+            { "id": "baladi", "name": "بلدي", "price": 16 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 27 }
+          ]
+        },
+        {
+          "id": "taameya_14",
+          "name": " طعمية على بطاطس",
+          "hasVariants": true,
+          "tags": ["طعمية"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 20 },
+            { "id": "baladi", "name": "بلدي", "price": 22 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 32 }
+          ]
+        },
+        {
+          "id": "taameya_15",
+          "name": " طعمية على بابا غنوج",
+          "hasVariants": true,
+          "tags": ["طعمية"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 14 },
+            { "id": "baladi", "name": "بلدي", "price": 17 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 27 }
+          ]
+        },
+        {
+          "id": "taameya_16",
+          "name": " طعمية على مسقعة",
+          "hasVariants": true,
+          "tags": ["طعمية"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 20 },
+            { "id": "baladi", "name": "بلدي", "price": 21 }
+          ]
+        },
+        {
+          "id": "taameya_17",
+          "name": " طعمية كفتة",
+          "hasVariants": true,
+          "tags": ["طعمية"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 17 },
+            { "id": "baladi", "name": "بلدي", "price": 18 }
+          ]
+        },
+        {
+          "id": "taameya_18",
+          "name": " عجة بلدي",
+          "hasVariants": true,
+          "tags": ["طعمية"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 21 },
+            { "id": "baladi", "name": "بلدي", "price": 25 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 33 }
           ]
         }
       ]
@@ -313,13 +399,309 @@
       "items": [
         {
           "id": "potato_01",
-          "name": "بطاطس",
+          "name": "بطاطس صوابع",
           "hasVariants": true,
           "tags": ["بطاطس"],
           "variants": [
-            { "id": "shami", "name": "شامي", "price": 10 },
-            { "id": "baladi", "name": "بلدي", "price": 11 },
-            { "id": "fransawi", "name": "فرنساوي", "price": 15 }
+            { "id": "shami", "name": "شامي", "price": 18 },
+            { "id": "baladi", "name": "بلدي", "price": 19 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 26 }
+          ]
+        },
+           {
+          "id": "potato_02",
+          "name": "صوابع سبيشيال",
+          "hasVariants": true,
+          "tags": ["بطاطس"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 19 },
+            { "id": "baladi", "name": "بلدي", "price": 20 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 27 }
+          ]
+        },
+           {
+          "id": "potato_03",
+          "name": "بطاطس كاتشب ومايونيز",
+          "hasVariants": true,
+          "tags": ["بطاطس"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 20 },
+            { "id": "baladi", "name": "بلدي", "price": 22 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 27 }
+          ]
+        },
+           {
+          "id": "potato_04",
+          "name": "بطاطس كاتشب",
+          "hasVariants": true,
+          "tags": ["بطاطس"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 21 },
+            { "id": "baladi", "name": "بلدي", "price": 22 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 30 }
+          ]
+        }
+        ,
+           {
+          "id": "potato_05",
+          "name": "بطاطس مايونيز",
+          "hasVariants": true,
+          "tags": ["بطاطس"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 19 },
+            { "id": "baladi", "name": "بلدي", "price": 20 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 28 }
+          ]
+        },
+           {
+          "id": "potato_06",
+          "name": "بطاطس رومي",
+          "hasVariants": true,
+          "tags": ["بطاطس"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 21 },
+            { "id": "baladi", "name": "بلدي", "price": 25 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 29 }
+          ]
+        },
+           {
+          "id": "potato_07",
+          "name": "بطاطس شيدر",
+          "hasVariants": true,
+          "tags": ["بطاطس"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 21 },
+            { "id": "baladi", "name": "بلدي", "price": 25 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 29 }
+          ]
+        },
+           {
+          "id": "potato_08",
+          "name": "بطاطس موتزريلا",
+          "hasVariants": true,
+          "tags": ["بطاطس"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 21 },
+            { "id": "baladi", "name": "بلدي", "price": 25 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 29 }
+          ]
+        },
+           {
+          "id": "potato_09",
+          "name": "بطاطس بيض مسلوق",
+          "hasVariants": true,
+          "tags": ["بطاطس"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 25 },
+            { "id": "baladi", "name": "بلدي", "price": 26 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 28 }
+          ]
+        },
+           {
+          "id": "potato_10",
+          "name": "بطاطس سجق",
+          "hasVariants": true,
+          "tags": ["بطاطس"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 30 },
+            { "id": "baladi", "name": "بلدي", "price": 33 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 36 }
+          ]
+        },
+           {
+          "id": "potato_11",
+          "name": "بطاطس سوسيس",
+          "hasVariants": true,
+          "tags": ["بطاطس"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 30 },
+            { "id": "baladi", "name": "بلدي", "price": 33 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 36 }
+          ]
+        },
+           {
+          "id": "potato_12",
+          "name": "بطاطس بسطرمة",
+          "hasVariants": true,
+          "tags": ["بطاطس"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 30 },
+            { "id": "baladi", "name": "بلدي", "price": 32 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 35 }
+          ]
+        },
+           {
+          "id": "potato_13",
+          "name": "بطاطس أومليت",
+          "hasVariants": true,
+          "tags": ["بطاطس"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 28 },
+            { "id": "baladi", "name": "بلدي", "price": 30 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 35 }
+          ]
+        },
+           {
+          "id": "potato_14",
+          "name": "بطاطس ثومية",
+          "hasVariants": true,
+          "tags": ["بطاطس"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 20 },
+            { "id": "baladi", "name": "بلدي", "price": 22 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 28 }
+          ]
+        },
+           {
+          "id": "potato_15",
+          "name": "شيبسي",
+          "hasVariants": true,
+          "tags": ["بطاطس"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 17 },
+            { "id": "baladi", "name": "بلدي", "price": 18 }
+          ]
+        },
+           {
+          "id": "potato_16",
+          "name": "شيبسي كاتشب ومايونيز",
+          "hasVariants": true,
+          "tags": ["بطاطس"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 20 },
+            { "id": "baladi", "name": "بلدي", "price": 21 }
+          ]
+        },
+           {
+          "id": "potato_17",
+          "name": "شيبسي رومي",
+          "hasVariants": true,
+          "tags": ["بطاطس"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 25 },
+            { "id": "baladi", "name": "بلدي", "price": 25 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 29 }
+          ]
+        },
+           {
+          "id": "potato_18",
+          "name": "شسيبسي شيدر",
+          "hasVariants": true,
+          "tags": ["بطاطس"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 25 },
+            { "id": "baladi", "name": "بلدي", "price": 25 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 29 }
+          ]
+        },
+           {
+          "id": "potato_19",
+          "name": "شيبس بابا غنوج",
+          "hasVariants": true,
+          "tags": ["بطاطس"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 21 },
+            { "id": "baladi", "name": "بلدي", "price": 25 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 27 }
+          ]
+        },
+           {
+          "id": "potato_20",
+          "name": "بوريه",
+          "hasVariants": true,
+          "tags": ["بطاطس"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 18 },
+            { "id": "baladi", "name": "بلدي", "price": 19 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 29 }
+          ]
+        },
+           {
+          "id": "potato_21",
+          "name": "بوريه رومي",
+          "hasVariants": true,
+          "tags": ["بطاطس"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 25 },
+            { "id": "baladi", "name": "بلدي", "price": 26 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 29 }
+          ]
+        },
+           {
+          "id": "potato_22",
+          "name": "بوريه شيدر",
+          "hasVariants": true,
+          "tags": ["بطاطس"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 25 },
+            { "id": "baladi", "name": "بلدي", "price": 26 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 29 }
+          ]
+        },
+           {
+          "id": "potato_23",
+          "name": "بوريه بيض مسلوق",
+          "hasVariants": true,
+          "tags": ["بطاطس"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 22 },
+            { "id": "baladi", "name": "بلدي", "price": 23 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 30 }
+          ]
+        },
+           {
+          "id": "potato_24",
+          "name": "بوريه أومليت",
+          "hasVariants": true,
+          "tags": ["بطاطس"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 25 },
+            { "id": "baladi", "name": "بلدي", "price": 26 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 30 }
+          ]
+        },
+           {
+          "id": "potato_25",
+          "name": "بطاطس على غنوج",
+          "hasVariants": true,
+          "tags": ["بطاطس"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 20 },
+            { "id": "baladi", "name": "بلدي", "price": 22 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 28 }
+          ]
+        },
+           {
+          "id": "potato_26",
+          "name": "بطاطس على ليمونيتا",
+          "hasVariants": true,
+          "tags": ["بطاطس"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 0 },
+            { "id": "baladi", "name": "بلدي", "price": 0 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 0 }
+          ]
+        },
+           {
+          "id": "potato_27",
+          "name": "بطاطس على باذنجان",
+          "hasVariants": true,
+          "tags": ["بطاطس"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 20 },
+            { "id": "baladi", "name": "بلدي", "price": 22 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 0 }
+          ]
+        },
+           {
+          "id": "potato_28",
+          "name": "بطاطس جمبري",
+          "hasVariants": true,
+          "tags": ["بطاطس"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 22 },
+            { "id": "baladi", "name": "بلدي", "price": 23 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 0 }
           ]
         }
       ]
@@ -331,14 +713,113 @@
       "items": [
         {
           "id": "egg_01",
-          "name": "بيض",
+          "name": "أومليت سادة",
           "hasVariants": true,
           "tags": ["بيض"],
           "variants": [
-            { "id": "boiled_shami", "name": "مسلوق شامي", "price": 14 },
-            { "id": "boiled_baladi", "name": "مسلوق بلدي", "price": 15 },
-            { "id": "omelette_shami", "name": "أومليت شامي", "price": 16 },
-            { "id": "omelette_baladi", "name": "أومليت بلدي", "price": 17 }
+            { "id": "shami", "name": "شامي", "price": 17 },
+            { "id": "baladi", "name": "بلدي", "price": 16 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 21 }
+          ]
+        },
+        {
+          "id": "egg_02",
+          "name": "أومليت بسطرمة",
+          "hasVariants": true,
+          "tags": ["بيض"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 25 },
+            { "id": "baladi", "name": "بلدي", "price": 26 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 29 }
+          ]
+        },
+        {
+          "id": "egg_03",
+          "name": "بيض مسلوق",
+          "hasVariants": true,
+          "tags": ["بيض"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 15 },
+            { "id": "baladi", "name": "بلدي", "price": 16 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 21 }
+          ]
+        },
+        {
+          "id": "egg_04",
+          "name": "بيض مدحرج",
+          "hasVariants": true,
+          "tags": ["بيض"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 19 },
+            { "id": "baladi", "name": "بلدي", "price": 21 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 30 }
+          ]
+        },
+        {
+          "id": "egg_05",
+          "name": "اسبانش",
+          "hasVariants": true,
+          "tags": ["بيض"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 20 },
+            { "id": "baladi", "name": "بلدي", "price": 22 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 25 }
+          ]
+        }
+        ,
+        {
+          "id": "egg_06",
+          "name": "شكشوكة",
+          "hasVariants": true,
+          "tags": ["بيض"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 16 },
+            { "id": "baladi", "name": "بلدي", "price": 17 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 25 }
+          ]
+        },
+        {
+          "id": "egg_07",
+          "name": "اباتشي",
+          "hasVariants": true,
+          "tags": ["بيض"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 27 },
+            { "id": "baladi", "name": "بلدي", "price": 28 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 35 }
+          ]
+        },
+        {
+          "id": "egg_08",
+          "name": "أومليت سوسيس",
+          "hasVariants": true,
+          "tags": ["بيض"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 25 },
+            { "id": "baladi", "name": "بلدي", "price": 24 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 30 }
+          ]
+        },
+        {
+          "id": "egg_09",
+          "name": "أومليت سجق",
+          "hasVariants": true,
+          "tags": ["بيض"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 25 },
+            { "id": "baladi", "name": "بلدي", "price": 26 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 30 }
+          ]
+        },
+        {
+          "id": "egg_10",
+          "name": "أومليت بيتزا",
+          "hasVariants": true,
+          "tags": ["بيض"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 26 },
+            { "id": "baladi", "name": "بلدي", "price": 27 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 32 }
           ]
         }
       ]
@@ -350,15 +831,223 @@
       "items": [
         {
           "id": "mixed_01",
-          "name": "سندوتشات متنوعة",
+          "name": "جبنة بيضاء بالطماطم",
           "hasVariants": true,
           "tags": ["متنوع"],
           "variants": [
-            { "id": "sogoq", "name": "سجق", "price": 20 },
-            { "id": "bastirma", "name": "بسطرمة", "price": 22 }
+            { "id": "shami", "name": "شامي", "price": 17 },
+            { "id": "baladi", "name": "بلدي", "price": 16 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 21 }
+          ]
+        },
+        {
+          "id": "mixed_02",
+          "name": "جبنة قديمة بالطماطم",
+          "hasVariants": true,
+          "tags": ["متنوع"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 25 },
+            { "id": "baladi", "name": "بلدي", "price": 26 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 29 }
+          ]
+        },
+        {
+          "id": "mixed_03",
+          "name": "جبنة رومي مقليه",
+          "hasVariants": true,
+          "tags": ["متنوع"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 15 },
+            { "id": "baladi", "name": "بلدي", "price": 16 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 21 }
+          ]
+        },
+        {
+          "id": "mixed_04",
+          "name": "مسقعة",
+          "hasVariants": true,
+          "tags": ["متنوع"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 19 },
+            { "id": "baladi", "name": "بلدي", "price": 21 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 30 }
+          ]
+        },
+        {
+          "id": "mixed_05",
+          "name": "بابا غنوج",
+          "hasVariants": true,
+          "tags": ["متنوع"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 20 },
+            { "id": "baladi", "name": "بلدي", "price": 22 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 25 }
+          ]
+        },
+        {
+          "id": "mixed_06",
+          "name": "باذنجان مقلي",
+          "hasVariants": true,
+          "tags": ["متنوع"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 16 },
+            { "id": "baladi", "name": "بلدي", "price": 17 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 25 }
+          ]
+        },
+        {
+          "id": "mixed_07",
+          "name": "باذنجان مقلي ليمونيتا",
+          "hasVariants": true,
+          "tags": ["متنوع"],
+          "variants": [
+            { "id": "shami", "name": "شامي", "price": 27 },
+            { "id": "baladi", "name": "بلدي", "price": 28 },
+            { "id": "fransawi", "name": "فرنساوي", "price": 35 }
           ]
         }
       ]
+    },
+    {
+  "id": "roll_sandwiches",
+  "name": "سندوتشات رول",
+  "items": [
+   {
+      "id": "roll_01",
+      "name": "بطاطس سوري",
+      "hasVariants": false,
+      "price": 35,
+      "tags": ["رول"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "roll_02",
+      "name": "بطاطس موتزريلا سوري",
+      "hasVariants": false,
+      "price": 45,
+      "tags": ["رول"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "roll_03",
+      "name": "بطاطس شيدر سوري",
+      "hasVariants": false,
+      "price": 45,
+      "tags": ["رول"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "roll_04",
+      "name": "بطاطس رومي سوري",
+      "hasVariants": false,
+      "price": 50,
+      "tags": ["رول"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "roll_05",
+      "name": "بطاطس بسطرمة سوري",
+      "hasVariants": false,
+      "price": 45,
+      "tags": ["رول"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "roll_06",
+      "name": "طعمية سوري",
+      "hasVariants": false,
+      "price": 35,
+      "tags": ["رول"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "roll_07",
+      "name": "محشية سوري",
+      "hasVariants": false,
+      "price": 30,
+      "tags": ["رول"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "roll_08",
+      "name": "طعمية كيري سوري",
+      "hasVariants": false,
+      "price": 45,
+      "tags": ["رول"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "roll_09",
+      "name": "بيض بسطرمة سوري",
+      "hasVariants": false,
+      "price": 45,
+      "tags": ["رول"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "roll_10",
+      "name": "بيض بسطرمة سوري",
+      "hasVariants": false,
+      "price": 45,
+      "tags": ["رول"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "roll_11",
+      "name": "اباتشي سوري",
+      "hasVariants": false,
+      "price": 45,
+      "tags": ["رول"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "roll_12",
+      "name": "رومي مقلية سوري",
+      "hasVariants": false,
+      "price": 45,
+      "tags": ["رول"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "roll_13",
+      "name": "بيض مسلوق سوري",
+      "hasVariants": false,
+      "price": 30,
+      "tags": ["رول"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "roll_14",
+      "name": "أومليت بيتزا سوري",
+      "hasVariants": false,
+      "price": 55,
+      "tags": ["رول"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "roll_15",
+      "name": "ميكس عم فتحي",
+      "hasVariants": false,
+      "price": 55,
+      "tags": ["رول"],
+      "image": "",
+      "isAvailable": true
+    }
+    ]
     },
 
     {
@@ -465,21 +1154,12 @@
       ]
     },
     {
-      "id": "pizza_special",
-      "name": "بيتزا سبيشال",
+      "id": "pizza_sogoq",
+      "name": "بيتزا سجق",
       "hasVariants": true,
       "variants": [
         { "id": "big", "name": "كبير", "price": 205 },
         { "id": "small", "name": "صغير", "price": 155 }
-      ]
-    },
-    {
-      "id": "pizza_magic",
-      "name": "بيتزا سحرية",
-      "hasVariants": true,
-      "variants": [
-        { "id": "big", "name": "كبير", "price": 145 },
-        { "id": "small", "name": "صغير", "price": 115 }
       ]
     },
     {
@@ -621,7 +1301,7 @@
       "hasVariants": true,
       "tags": ["فراخ"],
       "variants": [
-        { "id": "big", "name": "كبير", "price": 80 },
+        { "id": "kizar", "name": "كيزر", "price": 80 },
         { "id": "sori", "name": "سوري", "price": 60 },
         { "id": "french", "name": "فرنساوي", "price": 95 }
       ]
@@ -632,7 +1312,7 @@
       "hasVariants": true,
       "tags": ["فراخ"],
       "variants": [
-        { "id": "big", "name": "كبير", "price": 82 },
+        { "id": "kizar", "name": "كيزر", "price": 82 },
         { "id": "sori", "name": "سوري", "price": 72 },
         { "id": "french", "name": "فرنساوي", "price": 95 }
       ]
@@ -643,7 +1323,7 @@
       "hasVariants": true,
       "tags": ["فراخ"],
       "variants": [
-        { "id": "big", "name": "كبير", "price": 90 },
+        { "id": "kizar", "name": "كيزر", "price": 90 },
         { "id": "sori", "name": "سوري", "price": 72 },
         { "id": "french", "name": "فرنساوي", "price": 90 }
       ]
@@ -654,7 +1334,7 @@
       "hasVariants": true,
       "tags": ["فراخ"],
       "variants": [
-        { "id": "big", "name": "كبير", "price": 90 },
+        { "id": "kizar", "name": "كيزر", "price": 90 },
         { "id": "sori", "name": "سوري", "price": 75 },
         { "id": "french", "name": "فرنساوي", "price": 95 }
       ]
@@ -665,7 +1345,7 @@
       "hasVariants": true,
       "tags": ["فراخ"],
       "variants": [
-        { "id": "big", "name": "كبير", "price": 70 },
+        { "id": "kizar", "name": "كيزر", "price": 70 },
         { "id": "sori", "name": "سوري", "price": 72 },
         { "id": "french", "name": "فرنساوي", "price": 75 }
       ]
@@ -682,7 +1362,7 @@
       "name": "شاورما لحمة",
       "hasVariants": true,
       "variants": [
-        { "id": "big", "name": "كبير", "price": 65 },
+        { "id": "kizar", "name": "كيزر", "price": 65 },
         { "id": "sori", "name": "سوري", "price": 105 },
         { "id": "french", "name": "فرنساوي", "price": 95 }
       ]
@@ -692,7 +1372,7 @@
       "name": "كبدة اسكندراني",
       "hasVariants": true,
       "variants": [
-        { "id": "big", "name": "كبير", "price": 30 },
+        { "id": "kizar", "name": "كيزر", "price": 30 },
         { "id": "sori", "name": "سوري", "price": 60 },
         { "id": "french", "name": "فرنساوي", "price": 35 }
       ]
@@ -702,7 +1382,7 @@
       "name": "كبدة مشوية جريل",
       "hasVariants": true,
       "variants": [
-        { "id": "big", "name": "كبير", "price": 50 },
+        { "id": "kizar", "name": "كيزر", "price": 50 },
         { "id": "sori", "name": "سوري", "price": 55 },
         { "id": "french", "name": "فرنساوي", "price": 45 }
       ]
@@ -712,7 +1392,7 @@
       "name": "سوسيس",
       "hasVariants": true,
       "variants": [
-        { "id": "big", "name": "كبير", "price": 60 },
+        { "id": "kizar", "name": "كيزر", "price": 60 },
         { "id": "sori", "name": "سوري", "price": 65 },
         { "id": "french", "name": "فرنساوي", "price": 65 }
       ]
@@ -722,7 +1402,7 @@
       "name": "سجق",
       "hasVariants": true,
       "variants": [
-        { "id": "big", "name": "كبير", "price": 55 },
+        { "id": "kizar", "name": "كيزر", "price": 55 },
         { "id": "sori", "name": "سوري", "price": 65 },
         { "id": "french", "name": "فرنساوي", "price": 60 }
       ]
@@ -732,7 +1412,7 @@
       "name": "برجر سادة",
       "hasVariants": true,
       "variants": [
-        { "id": "big", "name": "كبير", "price": 55 },
+        { "id": "kizar", "name": "كيزر", "price": 55 },
         { "id": "sori", "name": "سوري", "price": 60 }
       ]
     },
@@ -741,7 +1421,7 @@
       "name": "برجر بيض",
       "hasVariants": true,
       "variants": [
-        { "id": "big", "name": "كبير", "price": 65 },
+        { "id": "kizar", "name": "كيزر", "price": 65 },
         { "id": "sori", "name": "سوري", "price": 70 }
       ]
     },
@@ -750,7 +1430,7 @@
       "name": "برجر جبنة",
       "hasVariants": true,
       "variants": [
-        { "id": "big", "name": "كبير", "price": 65 },
+        { "id": "kizar", "name": "كيزر", "price": 65 },
         { "id": "sori", "name": "سوري", "price": 70 }
       ]
     },
@@ -759,7 +1439,7 @@
       "name": "برجر دبل",
       "hasVariants": true,
       "variants": [
-        { "id": "big", "name": "كبير", "price": 85 },
+        { "id": "kizar", "name": "كيزر", "price": 85 },
         { "id": "sori", "name": "سوري", "price": 90 }
       ]
     }
