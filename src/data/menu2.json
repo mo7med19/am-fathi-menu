@@ -14,6 +14,197 @@
 
   "categories": [
     {
+      "id": "boxes",
+      "name": "العلب",
+      "items": [
+        {
+          "id": "boxes_01",
+          "name": " علبة فول عم فتحي",
+          "hasVariants": true,
+          "tags": ["علب"],
+          "image": "",
+          "variants": [
+          { "id": "big", "name": "كبير", "price": 22 },
+          { "id": "medium", "name": "وسط", "price": 16 },
+          { "id": "small", "name": "صغير", "price": 12 }
+        ]
+        },
+        {
+          "id": "boxes_02",
+          "name": " علبة فول لمونيتا",
+          "hasVariants": true,
+          "tags": ["علب"],
+          "image": "",
+          "variants": [
+          { "id": "big", "name": "كبير", "price": 24 },
+          { "id": "medium", "name": "وسط", "price": 18 }
+        ]
+        },
+        {
+          "id": "boxes_03",
+          "name": " علبة فول اسكندراني",
+          "hasVariants": true,
+          "tags": ["علب"],
+          "image": "",
+          "variants": [
+          { "id": "big", "name": "كبير", "price": 24 },
+          { "id": "medium", "name": "وسط", "price": 18 }
+        ]
+        },
+        {
+          "id": "boxes_04",
+          "name": " علبة فول حار",
+          "hasVariants": true,
+          "tags": ["علب"],
+          "image": "",
+          "variants": [
+          { "id": "big", "name": "كبير", "price": 24 },
+          { "id": "medium", "name": "وسط", "price": 17 },
+          { "id": "small", "name": "صغير", "price": 13 }
+        ]
+        },
+        {
+          "id": "boxes_05",
+          "name": " علبة فول زيتون",
+          "hasVariants": true,
+          "tags": ["علب"],
+          "image": "",
+          "variants": [
+          { "id": "big", "name": "كبير", "price": 24 },
+          { "id": "medium", "name": "وسط", "price": 18 }
+        ]
+        },
+        {
+          "id": "boxes_06",
+          "name": " علبة فول صلصة",
+          "hasVariants": true,
+          "tags": ["علب"],
+          "image": "",
+          "variants": [
+          { "id": "big", "name": "كبير", "price": 23 },
+          { "id": "medium", "name": "وسط", "price": 20 }
+        ]
+        },
+        {
+          "id": "boxes_07",
+          "name": " علبة فول زبده",
+          "hasVariants": true,
+          "tags": ["علب"],
+          "image": "",
+          "variants": [
+          { "id": "big", "name": "كبير", "price": 24 },
+          { "id": "medium", "name": "وسط", "price": 22 }
+        ]
+        },
+        {
+          "id": "boxes_08",
+          "name": " علبة فول سمنة",
+          "hasVariants": true,
+          "tags": ["علب"],
+          "image": "",
+          "variants": [
+          { "id": "big", "name": "كبير", "price": 24 },
+          { "id": "medium", "name": "وسط", "price": 21 }
+        ]
+        },
+        {
+          "id": "boxes_09",
+          "name": " علبة فول سادة",
+          "hasVariants": true,
+          "tags": ["علب"],
+          "image": "",
+          "variants": [
+          { "id": "big", "name": "كبير", "price": 19 },
+          { "id": "medium", "name": "وسط", "price": 15 }
+        ]
+        },
+        {
+          "id": "boxes_10",
+          "name": " علبة فول حمص",
+          "hasVariants": true,
+          "tags": ["علب"],
+          "image": "",
+          "variants": [
+          { "id": "big", "name": "كبير", "price": 24 },
+          { "id": "medium", "name": "وسط", "price": 20 }
+        ]
+        },
+        {
+          "id": "boxes_11",
+          "name": " علبة بوريه",
+          "hasVariants": true,
+          "tags": ["علب"],
+          "image": "",
+          "variants": [
+          { "id": "big", "name": "كبير", "price": 22 },
+          { "id": "medium", "name": "وسط", "price": 18 },
+          { "id": "small", "name": "صغير", "price": 14 }
+        ]
+        },
+        {
+          "id": "boxes_12",
+          "name": " علبة مسقعة",
+          "hasVariants": true,
+          "tags": ["علب"],
+          "image": "",
+          "variants": [
+          { "id": "big", "name": "كبير", "price": 22 },
+          { "id": "medium", "name": "وسط", "price": 18 },
+          { "id": "small", "name": "صغير", "price": 14 }
+        ]
+        },
+        {
+          "id": "boxes_13",
+          "name": " علبة بابا غنوج",
+          "hasVariants": true,
+          "tags": ["علب"],
+          "image": "",
+          "variants": [
+          { "id": "big", "name": "كبير", "price": 22 },
+          { "id": "medium", "name": "وسط", "price": 18 },
+          { "id": "small", "name": "صغير", "price": 14 }
+        ]
+        },
+        {
+          "id": "boxes_15",
+          "name": " علبة جبنة بيضاء",
+          "hasVariants": true,
+          "tags": ["علب"],
+          "image": "",
+          "variants": [
+          { "id": "big", "name": "كبير", "price": 22 },
+          { "id": "medium", "name": "وسط", "price": 20 },
+          { "id": "small", "name": "صغير", "price": 114 }
+        ]
+        },
+        {
+          "id": "boxes_16",
+          "name": " علبة جبنة قديمة",
+          "hasVariants": true,
+          "tags": ["علب"],
+          "image": "",
+          "variants": [
+          { "id": "big", "name": "كبير", "price": 22 },
+          { "id": "medium", "name": "وسط", "price": 20 },
+          { "id": "small", "name": "صغير", "price": 14 }
+        ]
+        },
+        {
+          "id": "boxes_17",
+          "name": " علبة عجينة طعمية",
+          "hasVariants": true,
+          "tags": ["علب"],
+          "image": "",
+          "variants": [
+          { "id": "big", "name": "كبير", "price": 19 },
+          { "id": "medium", "name": "وسط", "price": 16 }
+        ]
+        }
+
+          ]
+    },
+
+    {
       "id": "cat_foul",
       "name": "سندوتشات الفول",
       "items": [
@@ -188,6 +379,145 @@
         }
 
       ]
+    },
+    {
+  "id": "pill_taameya",
+  "name": "أقراص الطعمية",
+  "addons": [
+  { "id": "addon_01", "name": "بسطرمة", "price": 20 },
+  { "id": "addon_02", "name": "سجق", "price": 20 },
+  { "id": "addon_03", "name": "سوسيس", "price": 20 },
+  { "id": "addon_04", "name": "مشروم", "price": 20 },
+
+  { "id": "addon_05", "name": "شيدر", "price": 10 },
+  { "id": "addon_06", "name": "رومي", "price": 10 },
+  { "id": "addon_07", "name": "موتزاريلا", "price": 10 },
+
+  { "id": "addon_08", "name": "باذنجان", "price": 10 },
+  { "id": "addon_09", "name": "بطاطس", "price": 10 },
+
+  { "id": "addon_10", "name": "بابا غنوج", "price": 10 },
+  { "id": "addon_11", "name": "جبنة", "price": 10 },
+
+  { "id": "addon_12", "name": "ليمون مخلل", "price": 10 },
+  { "id": "addon_13", "name": "تومية", "price": 10 },
+
+  { "id": "addon_14", "name": "كاتشب", "price": 10 },
+  { "id": "addon_15", "name": "مايونيز", "price": 10 },
+
+  { "id": "addon_16", "name": "بيضة مسلوقة", "price": 10 },
+  { "id": "addon_17", "name": "بيضة مقلية", "price": 13 }
+],
+  "items": [
+    {
+      "id": "pill_01",
+      "name": "قرص قماطي بالسمسم",
+      "hasVariants": false,
+      "price": 2.5,
+      "tags": ["أقراص"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "pill_02",
+      "name": "قرص عم فتحي",
+      "hasVariants": false,
+      "price": 4,
+      "tags": ["أقراص"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "pill_03",
+      "name": "قرص سبيشيال بالسمسم",
+      "hasVariants": false,
+      "price": 5,
+      "tags": ["أقراص"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "pill_04",
+      "name": "قرص طعمية كيري",
+      "hasVariants": false,
+      "price": 16,
+      "tags": ["أقراص"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "pill_05",
+      "name": "قرص طعمية شيدر",
+      "hasVariants": false,
+      "price": 14,
+      "tags": ["أقراص"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "pill_06",
+      "name": "قرص طعمية رومي",
+      "hasVariants": false,
+      "price": 12,
+      "tags": ["أقراص"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "pill_07",
+      "name": "قرص طعمية بسطرمة",
+      "hasVariants": false,
+      "price": 18,
+      "tags": ["أقراص"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "pill_08",
+      "name": "قرص عجة 1 بيضة ",
+      "hasVariants": false,
+      "price": 17,
+      "tags": ["أقراص"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "pill_09",
+      "name": "قرص عجة 2 بيضة",
+      "hasVariants": false,
+      "price": 23,
+      "tags": ["أقراص"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "pill_10",
+      "name": "قرص عين كتكوت",
+      "hasVariants": false,
+      "price": 13,
+      "tags": ["أقراص"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "pill_11",
+      "name": "قرص طعمية كفته على الفحم",
+      "hasVariants": false,
+      "price": 7,
+      "tags": ["أقراص"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "pill_12",
+      "name": "قرص محشية",
+      "hasVariants": false,
+      "price": 5,
+      "tags": ["أقراص"],
+      "image": "",
+      "isAvailable": true
+    }
+    ]
     },
 
     {
@@ -1607,7 +1937,6 @@
     }
   ]
 }
-    
   ]
 }
 

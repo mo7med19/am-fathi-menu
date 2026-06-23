@@ -1,5 +1,8 @@
 import menu from "../data/menu2.json";
 
+/* =========================
+   CART TOTAL
+========================= */
 export function calculateCartTotal(cart = []) {
   return cart.reduce((sum, item) => {
     const price = Number(item.unitPrice ?? item.price ?? 0);
@@ -9,15 +12,18 @@ export function calculateCartTotal(cart = []) {
   }, 0);
 }
 
+/* =========================
+   WHATSAPP NUMBER NORMALIZE
+========================= */
 function normalizeWhatsAppNumber(number = "") {
   let cleaned = String(number).replace(/\D/g, "");
 
-  // مثال: 00201012345678 => 201012345678
+  // مثال: 00201012345678 تصبح 201012345678
   if (cleaned.startsWith("00")) {
     cleaned = cleaned.slice(2);
   }
 
-  // مثال: 01012345678 => 201012345678
+  // مثال: 01012345678 تصبح 201012345678
   if (cleaned.startsWith("0")) {
     cleaned = `2${cleaned}`;
   }
@@ -25,13 +31,17 @@ function normalizeWhatsAppNumber(number = "") {
   return cleaned;
 }
 
+/* =========================
+   GET WHATSAPP NUMBER
+========================= */
 export function getWhatsAppNumber() {
-  // يعتمد فقط على whatsappNumber
-  // لا يعتمد على phone نهائيًا
   return normalizeWhatsAppNumber(menu.whatsappNumber || "");
 }
 
-export function buildWhatsAppUrl({ cart, customer }) {
+/* =========================
+   BUILD WHATSAPP URL
+========================= */
+export function buildWhatsAppUrl({ cart = [], customer = {} }) {
   const whatsappNumber = getWhatsAppNumber();
 
   if (!whatsappNumber) {
@@ -39,38 +49,76 @@ export function buildWhatsAppUrl({ cart, customer }) {
   }
 
   const total = calculateCartTotal(cart);
+  const currency = menu.currency || "";
 
   const lines = [
-  `طلب جديد من ${menu.restaurantName || "المطعم"}`,
-  "-------------------------",
+    `طلب جديد من ${menu.restaurantName || "المطعم"}`,
+    "-------------------------",
 
-  `اسم العميل: ${customer.name}`,
-  `رقم العميل: ${customer.phone}`,
+    `اسم العميل: ${customer.name || ""}`,
+    `رقم العميل: ${customer.phone || ""}`,
 
-  customer.address ? `العنوان: ${customer.address}` : "",
+    customer.address ? `العنوان: ${customer.address}` : "",
 
-  customer.orderNotes ? `ملاحظات عامة: ${customer.orderNotes}` : "",
+    customer.orderNotes
+      ? `ملاحظات عامة على الطلب: ${customer.orderNotes}`
+      : "",
 
-  "",
-  "تفاصيل الطلب:",
+    "",
+    "تفاصيل الطلب:",
 
-  ...cart.map((item, index) => {
-    const variant = item.variant ? ` - ${item.variant}` : "";
-    const itemCurrency = item.currency || menu.currency || "";
-    const itemTotal = Number(item.unitPrice || 0) * Number(item.qty || 0);
+    ...cart.map((item, index) => {
+      const variant = item.variant ? ` - ${item.variant}` : "";
+      const itemCurrency = item.currency || currency;
 
-    return `${index + 1}) ${item.name}${variant}
-الكمية: ${item.qty}
-سعر الوحدة: ${item.unitPrice} ${itemCurrency}
-الإجمالي: ${itemTotal} ${itemCurrency}`;
-  }),
+      const qty = Number(item.qty || 1);
+      const unitPrice = Number(item.unitPrice || 0);
+      const basePrice = Number(item.basePrice ?? unitPrice);
+      const itemTotal = unitPrice * qty;
 
-  "",
-  "-------------------------",
-  `الإجمالي الكلي: ${total} ${menu.currency || ""}`
-].filter(Boolean);
+      const addons = Array.isArray(item.addons) ? item.addons : [];
 
-  const message = encodeURIComponent(lines.join("\n"));
+      const basePriceText =
+        addons.length > 0
+          ? `السعر الأساسي: ${basePrice} ${itemCurrency}`
+          : "";
+
+      const addonsText =
+        addons.length > 0
+          ? `الإضافات:
+${addons
+  .map((addon) => {
+    const addonName = addon.name || "";
+    const addonPrice = Number(addon.price || 0);
+
+    return `• ${addonName}: +${addonPrice} ${itemCurrency}`;
+  })
+  .join("\n")}`
+          : "";
+
+      const notesText = item.notes
+        ? `ملاحظات الصنف: ${item.notes}`
+        : "";
+
+      return [
+        `${index + 1}) ${item.name}${variant}`,
+        `الكمية: ${qty}`,
+        basePriceText,
+        addonsText,
+        `سعر الوحدة: ${unitPrice} ${itemCurrency}`,
+        `إجمالي الصنف: ${itemTotal} ${itemCurrency}`,
+        notesText
+      ]
+        .filter(Boolean)
+        .join("\n");
+    }),
+
+    "",
+    "-------------------------",
+    `الإجمالي الكلي: ${total} ${currency}`
+  ].filter(Boolean);
+
+  const message = encodeURIComponent(lines.join("\n\n"));
 
   return `https://wa.me/${whatsappNumber}?text=${message}`;
 }

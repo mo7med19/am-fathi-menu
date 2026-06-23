@@ -105,6 +105,41 @@ background: var(--secondary);
   display: flex;
 }
 
+.addons-section {
+  margin: 14px 0;
+  padding: 12px;
+  border: 1px solid #eee;
+  border-radius: 14px;
+  background: #fff;
+}
+
+.addons-section h4 {
+  margin: 0 0 10px;
+  font-size: 17px;
+  font-weight: 700;
+  text-align: right;
+}
+
+.addon-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 9px 0;
+  border-bottom: 1px solid #f1f1f1;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.addon-row:last-child {
+  border-bottom: none;
+}
+
+.addon-row input {
+  width: 18px;
+  height: 18px;
+}
+
 /* =========================
    ENHANCED PRICE DISPLAY
    ========================= */
