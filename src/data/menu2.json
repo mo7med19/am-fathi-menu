@@ -1036,7 +1036,129 @@
         }
       ]
     },
-
+    {
+      "id": "egg_dishes",
+      "name": "أطباق البيض",
+      "items": [
+          {
+      "id": "dishes_01",
+      "name": "بيضة مسلوقة",
+      "hasVariants": false,
+      "price": 10,
+      "tags": ["أطباق"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "dishes_02",
+      "name": "عدد 2 بيضة مسلوقة مقطعة على طحينة",
+      "hasVariants": false,
+      "price": 22,
+      "tags": ["أطباق"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "dishes_03",
+      "name": "بيضة مدحرجة",
+      "hasVariants": false,
+      "price": 11,
+      "tags": ["أطباق"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "dishes_04",
+      "name": "طبق أومليت سادة",
+      "hasVariants": false,
+      "price": 22,
+      "tags": ["أطباق"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "dishes_05",
+      "name": "طبق أومليت بسطرمة",
+      "hasVariants": false,
+      "price": 22,
+      "tags": ["أطباق"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "dishes_06",
+      "name": "طبق أومليت بيتزا",
+      "hasVariants": false,
+      "price": 22,
+      "tags": ["أطباق"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "dishes_07",
+      "name": "طبق بيض اسكرمبل ",
+      "hasVariants": false,
+      "price": 22,
+      "tags": ["أطباق"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "dishes_08",
+      "name": "طبق أومليت اباتشي",
+      "hasVariants": false,
+      "price": 22,
+      "tags": ["أطباق"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "dishes_09",
+      "name": "طبق أومليت سبانش",
+      "hasVariants": false,
+      "price": 22,
+      "tags": ["أطباق"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "dishes_10",
+      "name": "طبق أومليت سجق",
+      "hasVariants": false,
+      "price": 22,
+      "tags": ["أطباق"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "dishes_11",
+      "name": "طبق أومليت سوسيس",
+      "hasVariants": false,
+      "price": 22,
+      "tags": ["أطباق"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "dishes_12",
+      "name": "طبق شكشوكة",
+      "hasVariants": false,
+      "price": 22,
+      "tags": ["أطباق"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "dishes_13",
+      "name": "طبق أومليت ميكس جبن",
+      "hasVariants": false,
+      "price": 22,
+      "tags": ["أطباق"],
+      "image": "",
+      "isAvailable": true
+    }
+      ]
+    },
     {
       "id": "cat_egg",
       "name": "سندوتشات البيض",
@@ -1781,162 +1903,596 @@
   "items": [
     {
       "id": "crepe_chicken_shawarma",
-      "name": "كريب شاورما فراخ",
-      "hasVariants": true,
+      "name": "كريب شاورما فراخ ",
+      "hasVariants": false,
+      "price": 105,
       "tags": ["كريب"],
-      "variants": [
-        { "id": "big", "name": "كبير", "price": 105 },
-        { "id": "sori", "name": "سوري", "price": 85 },
-        { "id": "french", "name": "فرنساوي", "price": 80 }
-      ]
+      "addons" : [
+  { "id": "addon_01", "name": "خضار", "price": 10 },
+  { "id": "addon_02", "name": "رومي", "price": 10 },
+  { "id": "addon_03", "name": "موتزيلار", "price": 10 }
+]
     },
     {
       "id": "crepe_meat_shawarma",
       "name": "كريب شاورما لحمة",
-      "hasVariants": true,
+      "hasVariants": false,
+      "price": 110,
       "tags": ["كريب"],
-      "variants": [
-        { "id": "big", "name": "كبير", "price": 110 },
-        { "id": "sori", "name": "سوري", "price": 95 },
-        { "id": "french", "name": "فرنساوي", "price": 90 }
-      ]
+       "addons" : [
+  { "id": "addon_01", "name": "خضار", "price": 10 },
+  { "id": "addon_02", "name": "رومي", "price": 10 },
+  { "id": "addon_03", "name": "موتزيلار", "price": 10 }
+]
     },
     {
       "id": "crepe_fahita_chicken",
       "name": "كريب فاهيتا فراخ",
-      "hasVariants": true,
+      "hasVariants": false,
+      "price" :105,
       "tags": ["كريب"],
-      "variants": [
-        { "id": "big", "name": "كبير", "price": 120 },
-        { "id": "sori", "name": "سوري", "price": 95 },
-        { "id": "french", "name": "فرنساوي", "price": 90 }
-      ]
+       "addons" : [
+  { "id": "addon_01", "name": "خضار", "price": 10 },
+  { "id": "addon_02", "name": "رومي", "price": 10 },
+  { "id": "addon_03", "name": "موتزيلار", "price": 10 }
+]
     },
     {
       "id": "crepe_chicken_panier",
       "name": "كريب بانيه",
-      "hasVariants": true,
+      "hasVariants": false,
+      "price" :105,
       "tags": ["كريب"],
-      "variants": [
-        { "id": "big", "name": "كبير", "price": 110 },
-        { "id": "sori", "name": "سوري", "price": 105 },
-        { "id": "french", "name": "فرنساوي", "price": 105 }
-      ]
+      "addons" : [
+        { "id": "addon_01", "name": "خضار", "price": 10 },
+        { "id": "addon_02", "name": "رومي", "price": 10 },
+        { "id": "addon_03", "name": "موتزيلار", "price": 10 }
+]
     },
     {
       "id": "crepe_zinger",
       "name": "كريب زنجر",
-      "hasVariants": true,
+            "hasVariants": false,
+      "price" :105,
       "tags": ["كريب"],
-      "variants": [
-        { "id": "big", "name": "كبير", "price": 110 },
-        { "id": "sori", "name": "سوري", "price": 105 },
-        { "id": "french", "name": "فرنساوي", "price": 105 }
-      ]
+       "addons" : [
+  { "id": "addon_01", "name": "خضار", "price": 10 },
+  { "id": "addon_02", "name": "رومي", "price": 10 },
+  { "id": "addon_03", "name": "موتزيلار", "price": 10 }
+]
     },
     {
       "id": "crepe_crispy",
       "name": "كريب كريسبي",
-      "hasVariants": true,
+            "hasVariants": false,
+      "price" :105,
       "tags": ["كريب"],
-      "variants": [
-        { "id": "big", "name": "كبير", "price": 80 },
-        { "id": "sori", "name": "سوري", "price": 75 },
-        { "id": "french", "name": "فرنساوي", "price": 70 }
-      ]
+       "addons" : [
+  { "id": "addon_01", "name": "خضار", "price": 10 },
+  { "id": "addon_02", "name": "رومي", "price": 10 },
+  { "id": "addon_03", "name": "موتزيلار", "price": 10 }
+]
+    },
+    {
+      "id": "crepe_strips",
+      "name": "كريب ستربس",
+            "hasVariants": false,
+      "price" :105,
+      "tags": ["كريب"],
+       "addons" : [
+  { "id": "addon_01", "name": "خضار", "price": 10 },
+  { "id": "addon_02", "name": "رومي", "price": 10 },
+  { "id": "addon_03", "name": "موتزيلار", "price": 10 }
+]
+    },
+    {
+      "id": "crepe_shesh",
+      "name": "كريب شيش",
+            "hasVariants": false,
+      "price" :105,
+      "tags": ["كريب"],
+       "addons" : [
+  { "id": "addon_01", "name": "خضار", "price": 10 },
+  { "id": "addon_02", "name": "رومي", "price": 10 },
+  { "id": "addon_03", "name": "موتزيلار", "price": 10 }
+]
     },
     {
       "id": "crepe_burger",
       "name": "كريب برجر",
-      "hasVariants": true,
+            "hasVariants": false,
+      "price" :105,
       "tags": ["كريب"],
-      "variants": [
-        { "id": "big", "name": "كبير", "price": 85 },
-        { "id": "sori", "name": "سوري", "price": 75 },
-        { "id": "french", "name": "فرنساوي", "price": 70 }
-      ]
+       "addons" : [
+  { "id": "addon_01", "name": "خضار", "price": 10 },
+  { "id": "addon_02", "name": "رومي", "price": 10 },
+  { "id": "addon_03", "name": "موتزيلار", "price": 10 }
+]
+    },
+    {
+      "id": "crepe_soqua",
+      "name": "كريب سجق",
+            "hasVariants": false,
+      "price" :105,
+      "tags": ["كريب"],
+       "addons" : [
+  { "id": "addon_01", "name": "خضار", "price": 10 },
+  { "id": "addon_02", "name": "رومي", "price": 10 },
+  { "id": "addon_03", "name": "موتزيلار", "price": 10 }
+]
     },
     {
       "id": "crepe_sausage",
       "name": "كريب سوسيس",
-      "hasVariants": true,
+            "hasVariants": false,
+      "price" :105,
       "tags": ["كريب"],
-      "variants": [
-        { "id": "big", "name": "كبير", "price": 75 },
-        { "id": "sori", "name": "سوري", "price": 70 },
-        { "id": "french", "name": "فرنساوي", "price": 70 }
-      ]
+       "addons" : [
+  { "id": "addon_01", "name": "خضار", "price": 10 },
+  { "id": "addon_02", "name": "رومي", "price": 10 },
+  { "id": "addon_03", "name": "موتزيلار", "price": 10 }
+]
+    },
+    {
+      "id": "crepe_mix_meat",
+      "name": "كريب مكس لحوم",
+            "hasVariants": false,
+      "price" :110,
+      "tags": ["كريب"],
+       "addons" : [
+  { "id": "addon_01", "name": "خضار", "price": 10 },
+  { "id": "addon_02", "name": "رومي", "price": 10 },
+  { "id": "addon_03", "name": "موتزيلار", "price": 10 }
+]
+    },
+    {
+      "id": "crepe_mix_chicken",
+      "name": "كريب مكس فراخ",
+            "hasVariants": false,
+      "price" :110,
+      "tags": ["كريب"],
+       "addons" : [
+  { "id": "addon_01", "name": "خضار", "price": 10 },
+  { "id": "addon_02", "name": "رومي", "price": 10 },
+  { "id": "addon_03", "name": "موتزيلار", "price": 10 }
+]
+    },
+    {
+      "id": "crepe_mix_shawarma",
+      "name": "كريب مكس شاورما",
+            "hasVariants": false,
+      "price" :120,
+      "tags": ["كريب"],
+       "addons" : [
+  { "id": "addon_01", "name": "خضار", "price": 10 },
+  { "id": "addon_02", "name": "رومي", "price": 10 },
+  { "id": "addon_03", "name": "موتزيلار", "price": 10 }
+]
     },
     {
       "id": "crepe_mix_cheese",
       "name": "كريب مكس جبن",
-      "hasVariants": true,
+            "hasVariants": false,
+      "price" :105,
       "tags": ["كريب"],
-      "variants": [
-        { "id": "big", "name": "كبير", "price": 75 },
-        { "id": "sori", "name": "سوري", "price": 70 },
-        { "id": "french", "name": "فرنساوي", "price": 70 }
-      ]
+       "addons" : [
+  { "id": "addon_01", "name": "خضار", "price": 10 },
+  { "id": "addon_02", "name": "رومي", "price": 10 },
+  { "id": "addon_03", "name": "موتزيلار", "price": 10 }
+]
+    },
+        {
+      "id": "crepe_botato",
+      "name": "كريب بطاطس",
+            "hasVariants": false,
+      "price" :105,
+      "tags": ["كريب"],
+       "addons" : [
+  { "id": "addon_01", "name": "خضار", "price": 10 },
+  { "id": "addon_02", "name": "رومي", "price": 10 },
+  { "id": "addon_03", "name": "موتزيلار", "price": 10 }
+]
     },
     {
-      "id": "crepe_mexican",
-      "name": "كريب مكسيكي",
-      "hasVariants": true,
-      "tags": ["كريب"],
-      "variants": [
-        { "id": "big", "name": "كبير", "price": 75 },
-        { "id": "sori", "name": "سوري", "price": 72 },
-        { "id": "french", "name": "فرنساوي", "price": 70 }
-      ]
+      "id": "crepe_am_fathy",
+      "name": "كريب عم فتحي",
+      "hasVariants": false,
+      "price" :130,
+      "tags": ["كريب"]
     },
-
     {
+      "id": "crepe_dainmet",
+      "name": "كريب ديناميت",
+      "hasVariants": false,
+      "price" :115,
+      "tags": ["كريب"]
+    },
+    {
+      "id": "crepe_al_moftari",
+      "name": "كريب المفتري",
+      "hasVariants": false,
+      "price" :123,
+      "tags": ["كريب"]
+    },
+    {
+      "id": "crepe_super_al_moftari",
+      "name": "كريب المفتري سوبر",
+      "hasVariants": false,
+      "price" :140,
+      "tags": ["كريب"]
+    }
+    ]
+    },
+    {
+      "id":"crepe_sweet",
+      "name":"كريبات الحلو",
+      "items":[
+        {
       "id": "crepe_sweet_nutella",
       "name": "كريب نوتيلا",
       "hasVariants": true,
       "tags": ["حلو"],
       "variants": [
-        { "id": "big", "name": "كبير", "price": 130 }
+        { "id": "crepe", "name": "كريب", "price": 65 },
+        { "id": "roll", "name": "رول", "price": 70 }
       ]
     },
     {
-      "id": "crepe_oreo",
-      "name": "كريب أوريو",
+      "id": "crepe_oreo_nutella",
+      "name": " كريب أوريو نوتيلا",
       "hasVariants": true,
       "tags": ["حلو"],
       "variants": [
-        { "id": "big", "name": "كبير", "price": 130 }
+        { "id": "crepe", "name": "كريب", "price": 75 },
+        { "id": "roll", "name": "رول", "price": 75 }
+        ]
+    },
+    {
+      "id": "crepe_twinkz_nutella",
+      "name": "كريب تونكز نوتيلا",
+      "hasVariants": true,
+      "tags": ["حلو"],
+      "variants": [
+        { "id": "crepe", "name": "كريب", "price": 75 },
+        { "id": "roll", "name": "رول", "price": 75 }
+        ]
+    },
+    {
+      "id": "crepe_am_fathy_sweet",
+      "name": "كريب عم فتحي",
+      "hasVariants": true,
+      "tags": ["حلو"],
+      "variants": [
+        { "id": "crepe", "name": "كريب", "price": 115 },
+        { "id": "roll", "name": "رول", "price": 110 }
+        ]
+    }
       ]
     },
     {
-      "id": "crepe_twix",
-      "name": "كريب تويكس",
-      "hasVariants": true,
-      "tags": ["حلو"],
-      "variants": [
-        { "id": "big", "name": "كبير", "price": 140 }
-      ]
+  "id": "cat_drinks",
+  "name": "المشروبات",
+  "items": [
+    {
+      "id": "drinks_01",
+      "name": "بيبسي",
+      "hasVariants": false,
+      "price": 20,
+      "tags": ["مشروبات"],
+      "image": "",
+      "isAvailable": true
     },
     {
-      "id": "crepe_kinder",
-      "name": "كريب كيندر",
-      "hasVariants": true,
-      "tags": ["حلو"],
-      "variants": [
-        { "id": "big", "name": "كبير", "price": 140 }
-      ]
+      "id": "drinks_02",
+      "name": "ميراند",
+      "hasVariants": false,
+      "price": 20,
+      "tags": ["مشروبات"],
+      "image": "",
+      "isAvailable": true
     },
     {
-      "id": "crepe_lotus",
-      "name": "كريب لوتس",
-      "hasVariants": true,
-      "tags": ["حلو"],
-      "variants": [
-        { "id": "big", "name": "كبير", "price": 140 }
-      ]
+      "id": "drinks_03",
+      "name": "سفن",
+      "hasVariants": false,
+      "price": 20,
+      "tags": ["مشروبات"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "drinks_04",
+      "name": "شويبس",
+      "hasVariants": false,
+      "price": 25,
+      "tags": ["مشروبات"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "drinks_05",
+      "name": "فيروز",
+      "hasVariants": false,
+      "price": 25,
+      "tags": ["مشروبات"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "drinks_06",
+      "name": "مياه صغيرة",
+      "hasVariants": false,
+      "price": 10,
+      "tags": ["مشروبات"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "drinks_07",
+      "name": "عصير بيتي",
+      "hasVariants": false,
+      "price": 11,
+      "tags": ["مشروبات"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "drinks_08",
+      "name": "ريدبول",
+      "hasVariants": false,
+      "price": 40,
+      "tags": ["مشروبات"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "drinks_09",
+      "name": "ستينج",
+      "hasVariants": false,
+      "price": 20,
+      "tags": ["مشروبات"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "drinks_10",
+      "name": "ڤي كولا",
+      "hasVariants": false,
+      "price": 25,
+      "tags": ["مشروبات"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "drinks_11",
+      "name": "ڤي سفن",
+      "hasVariants": false,
+      "price": 25,
+      "tags": ["مشروبات"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "drinks_12",
+      "name": "سبيرو سباتس",
+      "hasVariants": false,
+      "price": 20,
+      "tags": ["مشروبات"],
+      "image": "",
+      "isAvailable": true
+    }
+    ]
+    },
+    {
+  "id": "cat_salad",
+  "name": "المخللات والسلطات ",
+  "items": [
+    {
+      "id": "salad_01",
+      "name": "طبق حبشتكانات كبير",
+      "hasVariants": false,
+      "price": 20,
+      "tags": ["سلطات"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "salad_02",
+      "name": "طبق حبشتكانات صغير",
+      "hasVariants": false,
+      "price": 15,
+      "tags": ["سلطات"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "salad_03",
+      "name": "علبة باذنجان مقلي",
+      "hasVariants": false,
+      "price": 10,
+      "tags": ["سلطات"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "salad_04",
+      "name": "علبة باذنجان مخلل",
+      "hasVariants": false,
+      "price": 12,
+      "tags": ["سلطات"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "salad_05",
+      "name": "علبة سلطة خضراء",
+      "hasVariants": false,
+      "price": 15,
+      "tags": ["سلطات"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "salad_06",
+      "name": "علبة ثومية",
+      "hasVariants": false,
+      "price": 15,
+      "tags": ["سلطات"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "salad_07",
+      "name": "علبه فلفل مقلي",
+      "hasVariants": false,
+      "price": 12,
+      "tags": ["سلطات"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "salad_08",
+      "name": "علبة سلطو كلوسو",
+      "hasVariants": false,
+      "price": 30,
+      "tags": ["سلطات"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "salad_09",
+      "name": "علبة طماطم بالدقة",
+      "hasVariants": false,
+      "price": 15,
+      "tags": ["سلطات"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "salad_10",
+      "name": "علية بصل بالدقة",
+      "hasVariants": false,
+      "price": 10,
+      "tags": ["سلطات"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "salad_11",
+      "name": "علبة مخلل بوليف",
+      "hasVariants": false,
+      "price": 10,
+      "tags": ["سلطات"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "salad_12",
+      "name": "علبه مخلل معصفر",
+      "hasVariants": false,
+      "price": 12,
+      "tags": ["سلطات"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "salad_13",
+      "name": "علبه طحينة",
+      "hasVariants": false,
+      "price": 15,
+      "tags": ["سلطات"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "salad_14",
+      "name": "علبه سلطة بلدي",
+      "hasVariants": false,
+      "price": 12,
+      "tags": ["سلطات"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "salad_15",
+      "name": "علبه بطاطس بالدقة",
+      "hasVariants": false,
+      "price": 15,
+      "tags": ["سلطات"],
+      "image": "",
+      "isAvailable": true
+    }
+    ]
+    },
+    {
+  "id": "cat_bread",
+  "name": "المقبلات والعيش",
+  "items": [
+    {
+      "id": "bread_01",
+      "name": "طبق توست",
+      "hasVariants": false,
+      "price": 10,
+      "tags": ["عيش"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "bread_02",
+      "name": "طبق بطاطس",
+      "hasVariants": false,
+      "price": 25,
+      "tags": ["عيش"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "bread_03",
+      "name": "طبق شيبسي",
+      "hasVariants": false,
+      "price": 25,
+      "tags": ["عيش"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "bread_04",
+      "name": "باكيت بطاطس",
+      "hasVariants": false,
+      "price": 22,
+      "tags": ["عيش"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "bread_05",
+      "name": "باكيت شيبسي",
+      "hasVariants": false,
+      "price": 20,
+      "tags": ["عيش"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "bread_06",
+      "name": "رغيف بلدي",
+      "hasVariants": false,
+      "price": 2.5,
+      "tags": ["عيش"],
+      "image": "",
+      "isAvailable": true
+    },
+    {
+      "id": "bread_07",
+      "name": "طلب شامي 3 رغيف",
+      "hasVariants": false,
+      "price": 6,
+      "tags": ["عيش"],
+      "image": "",
+      "isAvailable": true
     }
   ]
 }
-  ]
+]
 }
 
