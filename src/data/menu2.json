@@ -22,7 +22,7 @@
           "name": " علبة فول عم فتحي",
           "hasVariants": true,
           "tags": ["علب"],
-          "image": "",
+          "image": "/images/items/boxes/boxes_01.png",
           "variants": [
           { "id": "big", "name": "كبير", "price": 22 },
           { "id": "medium", "name": "وسط", "price": 16 },
@@ -34,7 +34,7 @@
           "name": " علبة فول لمونيتا",
           "hasVariants": true,
           "tags": ["علب"],
-          "image": "",
+          "image": "/images/items/boxes/boxes_02.png",
           "variants": [
           { "id": "big", "name": "كبير", "price": 24 },
           { "id": "medium", "name": "وسط", "price": 18 }
@@ -45,7 +45,7 @@
           "name": " علبة فول اسكندراني",
           "hasVariants": true,
           "tags": ["علب"],
-          "image": "",
+          "image": "/images/items/boxes/boxes_03.png",
           "variants": [
           { "id": "big", "name": "كبير", "price": 24 },
           { "id": "medium", "name": "وسط", "price": 18 }
@@ -56,7 +56,7 @@
           "name": " علبة فول حار",
           "hasVariants": true,
           "tags": ["علب"],
-          "image": "",
+          "image": "/images/items/boxes/boxes_04.png",
           "variants": [
           { "id": "big", "name": "كبير", "price": 24 },
           { "id": "medium", "name": "وسط", "price": 17 },
@@ -68,7 +68,7 @@
           "name": " علبة فول زيتون",
           "hasVariants": true,
           "tags": ["علب"],
-          "image": "",
+          "image": "/images/items/boxes/boxes_05.png",
           "variants": [
           { "id": "big", "name": "كبير", "price": 24 },
           { "id": "medium", "name": "وسط", "price": 18 }
@@ -79,7 +79,7 @@
           "name": " علبة فول صلصة",
           "hasVariants": true,
           "tags": ["علب"],
-          "image": "",
+          "image": "/images/items/boxes/boxes_06.png",
           "variants": [
           { "id": "big", "name": "كبير", "price": 23 },
           { "id": "medium", "name": "وسط", "price": 20 }
@@ -90,7 +90,7 @@
           "name": " علبة فول زبده",
           "hasVariants": true,
           "tags": ["علب"],
-          "image": "",
+          "image": "/images/items/boxes/boxes_01.png",
           "variants": [
           { "id": "big", "name": "كبير", "price": 24 },
           { "id": "medium", "name": "وسط", "price": 22 }
@@ -101,7 +101,7 @@
           "name": " علبة فول سمنة",
           "hasVariants": true,
           "tags": ["علب"],
-          "image": "",
+          "image": "/images/items/boxes/boxes_01.png",
           "variants": [
           { "id": "big", "name": "كبير", "price": 24 },
           { "id": "medium", "name": "وسط", "price": 21 }
@@ -112,7 +112,7 @@
           "name": " علبة فول سادة",
           "hasVariants": true,
           "tags": ["علب"],
-          "image": "",
+          "image": "/images/items/boxes/boxes_01.png",
           "variants": [
           { "id": "big", "name": "كبير", "price": 19 },
           { "id": "medium", "name": "وسط", "price": 15 }
@@ -123,7 +123,7 @@
           "name": " علبة فول حمص",
           "hasVariants": true,
           "tags": ["علب"],
-          "image": "",
+          "image": "/images/items/boxes/boxes_10.png",
           "variants": [
           { "id": "big", "name": "كبير", "price": 24 },
           { "id": "medium", "name": "وسط", "price": 20 }
@@ -134,7 +134,7 @@
           "name": " علبة بوريه",
           "hasVariants": true,
           "tags": ["علب"],
-          "image": "",
+          "image": "/images/items/boxes/boxes_11.png",
           "variants": [
           { "id": "big", "name": "كبير", "price": 22 },
           { "id": "medium", "name": "وسط", "price": 18 },
@@ -146,7 +146,7 @@
           "name": " علبة مسقعة",
           "hasVariants": true,
           "tags": ["علب"],
-          "image": "",
+          "image": "/images/items/boxes/boxes_12.png",
           "variants": [
           { "id": "big", "name": "كبير", "price": 22 },
           { "id": "medium", "name": "وسط", "price": 18 },
@@ -158,7 +158,7 @@
           "name": " علبة بابا غنوج",
           "hasVariants": true,
           "tags": ["علب"],
-          "image": "",
+          "image": "/images/items/boxes/boxes_13.png",
           "variants": [
           { "id": "big", "name": "كبير", "price": 22 },
           { "id": "medium", "name": "وسط", "price": 18 },
@@ -166,11 +166,11 @@
         ]
         },
         {
-          "id": "boxes_15",
+          "id": "boxes_14",
           "name": " علبة جبنة بيضاء",
           "hasVariants": true,
           "tags": ["علب"],
-          "image": "",
+          "image": "/images/items/boxes/boxes_14.png",
           "variants": [
           { "id": "big", "name": "كبير", "price": 22 },
           { "id": "medium", "name": "وسط", "price": 20 },
@@ -178,11 +178,11 @@
         ]
         },
         {
-          "id": "boxes_16",
+          "id": "boxes_15",
           "name": " علبة جبنة قديمة",
           "hasVariants": true,
           "tags": ["علب"],
-          "image": "",
+          "image": "/images/items/boxes/boxes_15.png",
           "variants": [
           { "id": "big", "name": "كبير", "price": 22 },
           { "id": "medium", "name": "وسط", "price": 20 },
@@ -190,11 +190,11 @@
         ]
         },
         {
-          "id": "boxes_17",
+          "id": "boxes_16",
           "name": " علبة عجينة طعمية",
           "hasVariants": true,
           "tags": ["علب"],
-          "image": "",
+          "image": "/images/items/boxes/boxes_16.png",
           "variants": [
           { "id": "big", "name": "كبير", "price": 19 },
           { "id": "medium", "name": "وسط", "price": 16 }
@@ -213,7 +213,7 @@
           "name": " فول عم فتحي",
           "hasVariants": true,
           "tags": ["فول"],
-          "image": "/images/items/fool_01.png",
+          "image": "/images/items/foul-sandwiche/fool_01.png",
           "variants": [
             { "id": "shami", "name": "شامي", "price": 9 },
             { "id": "baladi", "name": "بلدي", "price": 10 },
@@ -223,7 +223,7 @@
         {
           "id": "fool_lemonita",
           "name": "فول لمونيتا",
-          "image": "/images/items/fool_lemonita.png",
+          "image": "/images/items/foul-sandwiche/fool_lemonita.png",
           "hasVariants": true,
           "tags": ["فول"],
           "variants": [
@@ -234,7 +234,7 @@
         {
           "id": "fool_har",
           "name": "فول حار",
-          "image":"/images/items/fool_har.png",
+          "image":"/images/items/foul-sandwiche/fool_har.png",
           "hasVariants": true,
           "tags": ["فول"],
           "variants": [
@@ -245,7 +245,7 @@
         {
           "id": "fool_zeitoon",
           "name": "فول زيتون",
-          "image":"/images/items/fool_zeitoon.png",
+          "image":"/images/items/foul-sandwiche/fool_zeitoon.png",
           "hasVariants": true,
           "tags": ["فول"],
           "variants": [
@@ -256,7 +256,7 @@
         {
           "id": "fool_special",
           "name": "فول سبيشيال",
-          "image":"/images/items/fool_special.png",
+          "image":"/images/items/foul-sandwiche/fool_special.png",
           "hasVariants": true,
           "tags": ["فول"],
           "variants": [
@@ -267,7 +267,7 @@
         {
           "id": "fool_iskandarani",
           "name": "فول اسكندراني",
-          "image":"/images/items/fool_iskandarani.png",
+          "image":"/images/items/foul-sandwiche/fool_iskandarani.png",
           "hasVariants": true,
           "tags": ["فول"],
           "variants": [
@@ -279,7 +279,7 @@
         {
           "id": "fool_salsa",
           "name": "فول صلصة",
-          "image":"/images/items/fool_salsa.png",
+          "image":"/images/items/foul-sandwiche/fool_salsa.png",
           "hasVariants": true,
           "tags": ["فول"],
           "variants": [
@@ -290,7 +290,7 @@
         {
           "id": "fool_zebda",
           "name": "فول بالزبدة",
-          "image":"/images/items/fool_zebda.png",
+          "image":"/images/items/foul-sandwiche/fool_zebda.png",
           "hasVariants": true,
           "tags": ["فول"],
           "variants": [
@@ -301,7 +301,7 @@
         {
           "id": "fool_samna",
           "name": "فول بالسمنة",
-          "image":"/images/items/fool_samna.png",
+          "image":"/images/items/foul-sandwiche/fool_samna.png",
           "hasVariants": true,
           "tags": ["فول"],
           "variants": [
@@ -313,7 +313,7 @@
         {
           "id": "fool_homs",
           "name": "فول بالحمص",
-          "image":"/images/items/fool_homs.png",
+          "image":"/images/items/foul-sandwiche/fool_homs.png",
           "hasVariants": true,
           "tags": ["فول"],
           "variants": [
@@ -325,7 +325,7 @@
         {
           "id": "fool_sogoq",
           "name": "فول سجق",
-          "image":"/images/items/fool_sogoq.png",
+          "image":"/images/items/foul-sandwiche/fool_sogoq.png",
           "hasVariants": true,
           "tags": ["فول"],
           "variants": [
@@ -336,7 +336,7 @@
         {
           "id": "fool_bastirma",
           "name": "فول بسطرمة",
-          "image":"/images/items/fool_bastirma.png",
+          "image":"/images/items/foul-sandwiche/fool_bastirma.png",
           "hasVariants": true,
           "tags": ["فول"],
           "variants": [
@@ -347,7 +347,7 @@
         {
           "id": "fool_beid",
           "name": "فول بالبيض",
-          "image":"/images/items/fool_beid.png",
+          "image":"/images/items/foul-sandwiche/fool_beid.png",
           "hasVariants": true,
           "tags": ["فول"],
           "variants": [
@@ -358,7 +358,7 @@
         {
           "id": "fool_omelette",
           "name": "فول أومليت",
-          "image":"/images/items/fool_omelette.png",
+          "image":"/images/items/foul-sandwiche/fool_omelette.png",
           "hasVariants": true,
           "tags": ["فول"],
           "variants": [
@@ -369,7 +369,7 @@
         {
           "id": "fool_taameya",
           "name": "فول على طعمية",
-          "image":"/images/items/fool_taameya.png",
+          "image":"/images/items/foul-sandwiche/fool_taameya.png",
           "hasVariants": true,
           "tags": ["فول"],
           "variants": [
@@ -415,7 +415,7 @@
       "hasVariants": false,
       "price": 2.5,
       "tags": ["أقراص"],
-      "image": "",
+      "image": "/images/items/pill/pill_01.png",
       "isAvailable": true
     },
     {
@@ -424,7 +424,7 @@
       "hasVariants": false,
       "price": 4,
       "tags": ["أقراص"],
-      "image": "",
+      "image": "/images/items/pill/pill_02.png",
       "isAvailable": true
     },
     {
@@ -433,7 +433,7 @@
       "hasVariants": false,
       "price": 5,
       "tags": ["أقراص"],
-      "image": "",
+      "image": "/images/items/pill/pill_02.png",
       "isAvailable": true
     },
     {
@@ -442,7 +442,7 @@
       "hasVariants": false,
       "price": 16,
       "tags": ["أقراص"],
-      "image": "",
+      "image": "/images/items/pill/pill_04.png",
       "isAvailable": true
     },
     {
@@ -451,7 +451,7 @@
       "hasVariants": false,
       "price": 14,
       "tags": ["أقراص"],
-      "image": "",
+      "image": "/images/items/pill/pill_05.png",
       "isAvailable": true
     },
     {
@@ -460,7 +460,7 @@
       "hasVariants": false,
       "price": 12,
       "tags": ["أقراص"],
-      "image": "",
+      "image": "/images/items/pill/pill_06.png",
       "isAvailable": true
     },
     {
@@ -469,7 +469,7 @@
       "hasVariants": false,
       "price": 18,
       "tags": ["أقراص"],
-      "image": "",
+      "image": "/images/items/pill/pill_07.png",
       "isAvailable": true
     },
     {
@@ -478,7 +478,7 @@
       "hasVariants": false,
       "price": 17,
       "tags": ["أقراص"],
-      "image": "",
+      "image": "/images/items/pill/pill_08.png",
       "isAvailable": true
     },
     {
@@ -487,7 +487,7 @@
       "hasVariants": false,
       "price": 23,
       "tags": ["أقراص"],
-      "image": "",
+      "image": "/images/items/pill/pill_08.png",
       "isAvailable": true
     },
     {
@@ -496,7 +496,7 @@
       "hasVariants": false,
       "price": 13,
       "tags": ["أقراص"],
-      "image": "",
+      "image": "/images/items/pill/pill_01.png",
       "isAvailable": true
     },
     {
@@ -505,7 +505,7 @@
       "hasVariants": false,
       "price": 7,
       "tags": ["أقراص"],
-      "image": "",
+      "image": "/images/items/pill/pill_02.png",
       "isAvailable": true
     },
     {
@@ -514,7 +514,7 @@
       "hasVariants": false,
       "price": 5,
       "tags": ["أقراص"],
-      "image": "",
+      "image": "/images/items/pill/pill_02.png",
       "isAvailable": true
     }
     ]
